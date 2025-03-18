@@ -30,7 +30,7 @@ A Python-based framework for intelligent PDF processing and text extraction. The
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/dyno_pdf.git
+git clone https://github.com/izoon/dyno_pdf.git
 cd dyno_pdf
 ```
 
