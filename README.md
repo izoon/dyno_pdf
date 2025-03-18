@@ -45,6 +45,57 @@ source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 pip install -e .
 ```
 
+## Using as a Library
+
+You can use this framework as a library in your own Python packages:
+
+1. Add it to your project's dependencies in `setup.py`:
+```python
+from setuptools import setup, find_packages
+
+setup(
+    name="your_package",
+    version="0.1.0",
+    packages=find_packages(),
+    install_requires=[
+        "dyno-pdf",  # Add this line
+        # ... other dependencies
+    ],
+)
+```
+
+2. Import and use in your code:
+```python
+from pdf_agent.agent import PDFProcessingDecisionAgent
+
+class YourPDFProcessor:
+    def __init__(self):
+        self.agent = PDFProcessingDecisionAgent()
+    
+    def process_document(self, pdf_path: str) -> str:
+        # Use the agent to process PDFs
+        result = self.agent.process_pdf(pdf_path)
+        return result.text
+    
+    def analyze_document(self, pdf_path: str) -> dict:
+        # Get document characteristics
+        characteristics = self.agent._analyze_document_characteristics(pdf_path)
+        return characteristics
+```
+
+3. Or use specific extractors directly:
+```python
+from pdf_agent.extractors import PDFPlumberExtractor, TesseractExtractor
+
+# Use PDFPlumber for table-heavy documents
+pdfplumber = PDFPlumberExtractor()
+table_text = pdfplumber.extract_text("table_document.pdf")
+
+# Use Tesseract for scanned documents
+tesseract = TesseractExtractor()
+scanned_text = tesseract.extract_text("scanned_document.pdf")
+```
+
 ## Usage
 
 ### Basic Usage
