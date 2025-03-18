@@ -1,70 +1,157 @@
-# Dyno Framework
+# Dyno PDF Framework
 
-A framework for PDF processing and other document workflows, built on top of dynoagent.
+A Python-based framework for intelligent PDF processing and text extraction. The framework uses multiple PDF processing libraries and automatically selects the best method based on document characteristics.
 
 ## Features
 
-- PDF Processing Library
-  - Multiple extraction methods (PyMuPDF, PDFPlumber, Tesseract)
-  - Intelligent method selection with reinforcement learning
-  - Quality assessment and validation
-  - SQLite storage for results
-  - Integration with LlamaIndex for document processing
-  - Support for input dependencies and preprocessing
+- **Intelligent Method Selection**: Automatically chooses the best PDF processing method based on document characteristics:
+  - Table-heavy documents → PDFPlumber
+  - Scanned documents → Tesseract OCR
+  - Image-heavy documents → Tesseract OCR
+  - Digital text documents → PyMuPDF
+
+- **Multiple Processing Methods**:
+  - PDFPlumber: Best for table-heavy documents
+  - Tesseract OCR: Best for scanned and image-heavy documents
+  - PyMuPDF: General-purpose PDF processing
+
+- **Smart Analysis**:
+  - Text density analysis
+  - Image density analysis
+  - Table detection
+  - Scanned document detection
+
+- **Performance Tracking**:
+  - Processing time tracking
+  - Success rate monitoring
+  - Method effectiveness metrics
 
 ## Installation
 
+1. Clone the repository:
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/yourusername/dyno_pdf.git
+cd dyno_pdf
+```
+
+2. Create and activate a virtual environment:
+```bash
+python -m venv .venv
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+```
+
+3. Install dependencies:
+```bash
+pip install -e .
 ```
 
 ## Usage
+
+### Basic Usage
 
 ```python
 from pdf_agent.agent import PDFProcessingDecisionAgent
 
 # Initialize the agent
-agent = PDFProcessingDecisionAgent(
-    name="pdf_processor",
-    sampling_pages=2,
-    enable_learning=True
-)
+agent = PDFProcessingDecisionAgent()
 
-# Process a PDF
-result = agent.process_pdf("path/to/pdf")
+# Process a single PDF
+result = agent.process_pdf("path/to/your.pdf")
+print(result)
 ```
+
+### Batch Processing
+
+```python
+from pdf_agent.agent import PDFProcessingDecisionAgent
+
+# Initialize the agent
+agent = PDFProcessingDecisionAgent()
+
+# Process multiple PDFs
+results = agent.process_pdfs(["pdf1.pdf", "pdf2.pdf", "pdf3.pdf"])
+for result in results:
+    print(result)
+```
+
+## Testing
+
+The framework includes comprehensive tests:
+
+```bash
+# Run all tests
+python -m pytest tests/
+
+# Run specific test file
+python -m pytest tests/test_pdf_agent.py -v
+```
+
+Current test results:
+- ✅ Agent initialization
+- ✅ Document characteristics analysis
+- ✅ Method selection logic
+- ✅ Text extraction methods
+- ✅ Database operations
+- ✅ Error handling
+- ✅ Performance metrics
+- ✅ Batch processing
 
 ## Project Structure
 
 ```
 dyno_pdf/
-├── pdf_agent/              # Main implementation directory
-│   ├── agent.py           # Core PDF processing agent
-│   ├── dyno_llamaindex.py # LlamaIndex integration
-│   ├── extractors.py      # PDF text extraction implementations
-│   ├── test_pdf_agent.py  # Tests
-│   └── test_pdfs/         # Test PDF files
-├── requirements.txt       # Project dependencies
-├── setup.py              # Package configuration
-└── pdf_extraction.db     # SQLite database for results
+├── pdf_agent/
+│   ├── __init__.py
+│   ├── agent.py           # Main agent implementation
+│   ├── extractors.py      # Text extraction implementations
+│   └── database.py        # Database operations
+├── tests/
+│   ├── test_pdf_agent.py
+│   ├── test_pdf_processing.py
+│   └── test_pdfs/        # Test PDF files
+├── setup.py
+└── README.md
 ```
 
-## Dependencies
+## Method Selection Logic
 
-- PyMuPDF (fitz) - PDF processing
-- PDFPlumber - PDF text extraction
-- Tesseract - OCR capabilities
-- OpenCV & Pillow - Image processing
-- LlamaIndex - Document processing and indexing
-- dynoagent - Core agent framework
+The framework analyzes PDF characteristics to select the best processing method:
 
-## Development
+1. **Table Detection**:
+   - Very high table indicators (>10) → PDFPlumber
+   - High table indicators (>5) → PDFPlumber with reduced priority
 
-1. Clone the repository
-2. Create a virtual environment
-3. Install dependencies: `pip install -r requirements.txt`
-4. Run tests: `pytest pdf_agent/test_pdf_agent.py`
+2. **Scanned Document Detection**:
+   - High scanned indicators → Tesseract OCR
+   - Medium scanned indicators → Tesseract OCR with reduced priority
+
+3. **Image Density**:
+   - High image density → Tesseract OCR
+   - Medium image density → Tesseract OCR with reduced priority
+
+4. **Text Density**:
+   - High text density → PyMuPDF
+   - Medium text density → PyMuPDF with reduced priority
+
+## Performance
+
+The framework has been tested with various PDF types:
+- Digital text documents
+- Scanned documents
+- Table-heavy documents
+- Image-heavy documents
+- Mixed-content documents
+
+Current OCR confidence scores range from 20-28%, indicating potential for improvement in text extraction quality.
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Push to the branch
+5. Create a Pull Request
 
 ## License
 
-MIT License 
+This project is licensed under the MIT License - see the LICENSE file for details. 
