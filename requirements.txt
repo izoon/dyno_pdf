@@ -1,0 +1,11 @@
+numpy>=1.21.2  # Numerical computations
+PyMuPDF==1.25.3  # PDF processing
+pdfplumber==0.11.5  # PDF text extraction
+pytesseract==0.3.13  # OCR
+opencv-python==4.11.0.86  # Image processing
+Pillow>=9.1.0  # Image processing
+networkx>=3.4.2  # Graph operations
+git+https://github.com/izoon/dynoagent.git  # Custom agent package
+llama-index>=0.10.0  # LLM indexing and querying
+llama-index-readers-web>=0.1.0  # Web page reader for llama-index
+pytest>=7.4.0  # Testing framework 

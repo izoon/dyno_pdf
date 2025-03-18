@@ -1,0 +1,1290 @@
+2025-03-18 13:13:12,411 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 13:13:12,411 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 13:13:12,413 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:13:12,413 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:13:12,413 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/aral_20240926.pdf
+2025-03-18 13:13:12,413 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/aral_20240926.pdf
+2025-03-18 13:13:12,416 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:13:12,416 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:13:12,416 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240327_002.pdf
+2025-03-18 13:13:12,416 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240327_002.pdf
+2025-03-18 13:13:12,418 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:13:12,418 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:13:12,418 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/cora_20240918_010.pdf
+2025-03-18 13:13:12,418 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/cora_20240918_010.pdf
+2025-03-18 13:13:12,419 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:13:12,419 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:13:12,420 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240909_Hilton.pdf
+2025-03-18 13:13:12,420 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240909_Hilton.pdf
+2025-03-18 13:13:12,422 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:13:12,422 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:14:46,522 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 13:14:46,522 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 13:14:46,524 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:14:46,524 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:14:46,524 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/aral_20240926.pdf
+2025-03-18 13:14:46,524 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/aral_20240926.pdf
+2025-03-18 13:14:46,527 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:14:46,527 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:14:46,527 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240327_002.pdf
+2025-03-18 13:14:46,527 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240327_002.pdf
+2025-03-18 13:14:46,528 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:14:46,528 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:14:46,528 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/cora_20240918_010.pdf
+2025-03-18 13:14:46,528 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/cora_20240918_010.pdf
+2025-03-18 13:14:46,529 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:14:46,529 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:14:46,529 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240909_Hilton.pdf
+2025-03-18 13:14:46,529 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240909_Hilton.pdf
+2025-03-18 13:14:46,532 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:14:46,532 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:19:42,288 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 13:19:42,288 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 13:19:42,289 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:19:42,290 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:19:42,290 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/aral_20240926.pdf
+2025-03-18 13:19:42,290 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/aral_20240926.pdf
+2025-03-18 13:19:42,292 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:19:42,292 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:19:42,292 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240327_002.pdf
+2025-03-18 13:19:42,292 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240327_002.pdf
+2025-03-18 13:19:42,293 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:19:42,293 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:19:42,293 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/cora_20240918_010.pdf
+2025-03-18 13:19:42,294 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/cora_20240918_010.pdf
+2025-03-18 13:19:42,295 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:19:42,295 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:19:42,295 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240909_Hilton.pdf
+2025-03-18 13:19:42,295 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240909_Hilton.pdf
+2025-03-18 13:19:42,298 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:19:42,298 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:42:41,622 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 13:42:41,622 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 13:42:41,624 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:42:41,624 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:42:41,624 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/aral_20240926.pdf
+2025-03-18 13:42:41,624 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/aral_20240926.pdf
+2025-03-18 13:42:41,627 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:42:41,627 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:42:41,627 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240327_002.pdf
+2025-03-18 13:42:41,627 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240327_002.pdf
+2025-03-18 13:42:41,628 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:42:41,628 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:42:41,628 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/cora_20240918_010.pdf
+2025-03-18 13:42:41,628 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/cora_20240918_010.pdf
+2025-03-18 13:42:41,629 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:42:41,629 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:42:41,629 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240909_Hilton.pdf
+2025-03-18 13:42:41,629 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240909_Hilton.pdf
+2025-03-18 13:42:41,632 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:42:41,632 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:43:33,059 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 13:43:33,059 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 13:43:33,061 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:43:33,061 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:43:33,061 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/aral_20240926.pdf
+2025-03-18 13:43:33,061 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/aral_20240926.pdf
+2025-03-18 13:43:33,064 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:43:33,064 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:43:33,064 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240327_002.pdf
+2025-03-18 13:43:33,064 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240327_002.pdf
+2025-03-18 13:43:33,065 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:43:33,065 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:43:33,065 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/cora_20240918_010.pdf
+2025-03-18 13:43:33,065 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/cora_20240918_010.pdf
+2025-03-18 13:43:33,066 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:43:33,066 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:43:33,066 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240909_Hilton.pdf
+2025-03-18 13:43:33,066 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240909_Hilton.pdf
+2025-03-18 13:43:33,069 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:43:33,069 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:44:11,880 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 13:44:11,880 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 13:44:11,882 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:44:11,882 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:44:11,882 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/aral_20240926.pdf
+2025-03-18 13:44:11,882 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/aral_20240926.pdf
+2025-03-18 13:44:11,885 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:44:11,885 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:44:11,885 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240327_002.pdf
+2025-03-18 13:44:11,885 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240327_002.pdf
+2025-03-18 13:44:11,886 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:44:11,886 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:44:11,886 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/cora_20240918_010.pdf
+2025-03-18 13:44:11,886 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/cora_20240918_010.pdf
+2025-03-18 13:44:11,887 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:44:11,887 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:44:11,887 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240909_Hilton.pdf
+2025-03-18 13:44:11,887 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240909_Hilton.pdf
+2025-03-18 13:44:11,890 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:44:11,890 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:45:42,158 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 13:45:42,158 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 13:45:42,160 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:45:42,160 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:45:42,160 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/aral_20240926.pdf
+2025-03-18 13:45:42,160 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/aral_20240926.pdf
+2025-03-18 13:45:42,163 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:45:42,163 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:45:42,163 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240327_002.pdf
+2025-03-18 13:45:42,163 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240327_002.pdf
+2025-03-18 13:45:42,164 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:45:42,164 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:45:42,164 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/cora_20240918_010.pdf
+2025-03-18 13:45:42,164 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/cora_20240918_010.pdf
+2025-03-18 13:45:42,165 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:45:42,165 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:45:42,166 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240909_Hilton.pdf
+2025-03-18 13:45:42,166 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240909_Hilton.pdf
+2025-03-18 13:45:42,168 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:45:42,168 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:46:56,037 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 13:46:56,037 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 13:46:56,039 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:46:56,039 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:46:56,039 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/aral_20240926.pdf
+2025-03-18 13:46:56,039 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/aral_20240926.pdf
+2025-03-18 13:46:56,042 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:46:56,042 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:46:56,042 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240327_002.pdf
+2025-03-18 13:46:56,042 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240327_002.pdf
+2025-03-18 13:46:56,044 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:46:56,044 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:46:56,044 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/cora_20240918_010.pdf
+2025-03-18 13:46:56,044 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/cora_20240918_010.pdf
+2025-03-18 13:46:56,045 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:46:56,045 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:46:56,045 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240909_Hilton.pdf
+2025-03-18 13:46:56,045 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240909_Hilton.pdf
+2025-03-18 13:46:56,047 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:46:56,047 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:48:41,523 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 13:48:41,523 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 13:48:41,525 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:48:41,525 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:48:41,525 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/aral_20240926.pdf
+2025-03-18 13:48:41,525 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/aral_20240926.pdf
+2025-03-18 13:48:41,528 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:48:41,528 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:48:41,528 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240327_002.pdf
+2025-03-18 13:48:41,528 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240327_002.pdf
+2025-03-18 13:48:41,529 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:48:41,529 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:48:41,529 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/cora_20240918_010.pdf
+2025-03-18 13:48:41,529 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/cora_20240918_010.pdf
+2025-03-18 13:48:41,531 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:48:41,531 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 13:48:41,531 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240909_Hilton.pdf
+2025-03-18 13:48:41,531 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240909_Hilton.pdf
+2025-03-18 13:48:41,533 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 13:48:41,533 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 14:19:30,466 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 14:19:30,466 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 14:19:30,468 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 14:19:30,468 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 14:19:30,468 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/aral_20240926.pdf
+2025-03-18 14:19:30,468 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/aral_20240926.pdf
+2025-03-18 14:19:30,471 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 14:19:30,471 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 14:19:30,471 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240327_002.pdf
+2025-03-18 14:19:30,471 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240327_002.pdf
+2025-03-18 14:19:30,472 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 14:19:30,472 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 14:19:30,472 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/cora_20240918_010.pdf
+2025-03-18 14:19:30,472 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/cora_20240918_010.pdf
+2025-03-18 14:19:30,474 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 14:19:30,474 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 14:19:30,474 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240909_Hilton.pdf
+2025-03-18 14:19:30,474 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240909_Hilton.pdf
+2025-03-18 14:19:30,476 - lib.pdf_processing.agent - INFO - Document type: unknown
+2025-03-18 14:19:30,476 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 0, 'text_density': 0, 'image_density': 0, 'table_indicators': 0, 'scanned_indicators': 0}
+2025-03-18 14:22:01,599 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 14:22:01,599 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 14:22:01,601 - lib.pdf_processing.agent - INFO - Document type: mixed
+2025-03-18 14:22:01,601 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 1, 'text_density': 0.33, 'image_density': 1.0, 'table_indicators': 1.0, 'scanned_indicators': 0.0}
+2025-03-18 14:22:01,601 - lib.pdf_processing.agent - INFO - Initial scores: {'pymupdf': 50, 'pdfplumber': 50, 'tesseract': 70}
+2025-03-18 14:22:01,601 - lib.pdf_processing.agent - INFO - Applied image density adjustment (high)
+2025-03-18 14:22:01,601 - lib.pdf_processing.agent - INFO - Applied text density adjustment (low)
+2025-03-18 14:22:01,602 - lib.pdf_processing.agent - INFO - Non-ASCII ratio: 0.10606060606060606
+2025-03-18 14:22:01,602 - lib.pdf_processing.agent - INFO - Applied non-ASCII adjustment
+2025-03-18 14:22:01,602 - lib.pdf_processing.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 20, 'tesseract': 220}
+2025-03-18 14:22:01,602 - lib.pdf_processing.agent - INFO - Selected method: tesseract with score 220
+2025-03-18 14:22:01,602 - lib.pdf_processing.agent - INFO - Trying method tesseract with score 220
+2025-03-18 14:22:03,356 - lib.pdf_processing.agent - INFO - OCR confidence scores: [26.166666666666668]
+2025-03-18 14:22:03,356 - lib.pdf_processing.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 14:22:03,357 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/aral_20240926.pdf
+2025-03-18 14:22:03,357 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/aral_20240926.pdf
+2025-03-18 14:22:03,363 - lib.pdf_processing.agent - INFO - Document type: table_heavy
+2025-03-18 14:22:03,363 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 1.9785, 'image_density': 1.0, 'table_indicators': 17.5, 'scanned_indicators': 0.0}
+2025-03-18 14:22:03,363 - lib.pdf_processing.agent - INFO - Initial scores: {'pymupdf': 40, 'pdfplumber': 90, 'tesseract': 30}
+2025-03-18 14:22:03,363 - lib.pdf_processing.agent - INFO - Applied table adjustment (high)
+2025-03-18 14:22:03,363 - lib.pdf_processing.agent - INFO - Applied image density adjustment (high)
+2025-03-18 14:22:03,363 - lib.pdf_processing.agent - INFO - Applied text density adjustment (high)
+2025-03-18 14:22:03,365 - lib.pdf_processing.agent - INFO - Non-ASCII ratio: 0.202
+2025-03-18 14:22:03,365 - lib.pdf_processing.agent - INFO - Applied non-ASCII adjustment
+2025-03-18 14:22:03,365 - lib.pdf_processing.agent - INFO - Applied high non-ASCII adjustment
+2025-03-18 14:22:03,365 - lib.pdf_processing.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 140, 'tesseract': 120}
+2025-03-18 14:22:03,366 - lib.pdf_processing.agent - INFO - Selected method: pdfplumber with score 140
+2025-03-18 14:22:03,366 - lib.pdf_processing.agent - INFO - Trying method pdfplumber with score 140
+2025-03-18 14:22:03,422 - lib.pdf_processing.agent - INFO - Successfully processed PDF with pdfplumber
+2025-03-18 14:22:03,422 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240327_002.pdf
+2025-03-18 14:22:03,422 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240327_002.pdf
+2025-03-18 14:22:03,424 - lib.pdf_processing.agent - INFO - Document type: mixed
+2025-03-18 14:22:03,424 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.2675, 'image_density': 1.0, 'table_indicators': 0.5, 'scanned_indicators': 0.0}
+2025-03-18 14:22:03,424 - lib.pdf_processing.agent - INFO - Initial scores: {'pymupdf': 50, 'pdfplumber': 50, 'tesseract': 70}
+2025-03-18 14:22:03,424 - lib.pdf_processing.agent - INFO - Applied image density adjustment (high)
+2025-03-18 14:22:03,424 - lib.pdf_processing.agent - INFO - Applied text density adjustment (low)
+2025-03-18 14:22:03,425 - lib.pdf_processing.agent - INFO - Non-ASCII ratio: 0.21121495327102804
+2025-03-18 14:22:03,425 - lib.pdf_processing.agent - INFO - Applied non-ASCII adjustment
+2025-03-18 14:22:03,425 - lib.pdf_processing.agent - INFO - Applied high non-ASCII adjustment
+2025-03-18 14:22:03,425 - lib.pdf_processing.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 20, 'tesseract': 250}
+2025-03-18 14:22:03,425 - lib.pdf_processing.agent - INFO - Selected method: tesseract with score 250
+2025-03-18 14:22:03,425 - lib.pdf_processing.agent - INFO - Trying method tesseract with score 250
+2025-03-18 14:22:03,739 - lib.pdf_processing.agent - INFO - OCR confidence scores: [21.866666666666667, -1.0]
+2025-03-18 14:22:03,739 - lib.pdf_processing.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 14:22:03,740 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/cora_20240918_010.pdf
+2025-03-18 14:22:03,740 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/cora_20240918_010.pdf
+2025-03-18 14:22:03,741 - lib.pdf_processing.agent - INFO - Document type: mixed
+2025-03-18 14:22:03,741 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 1, 'text_density': 0.482, 'image_density': 1.0, 'table_indicators': 0.0, 'scanned_indicators': 0.0}
+2025-03-18 14:22:03,741 - lib.pdf_processing.agent - INFO - Initial scores: {'pymupdf': 50, 'pdfplumber': 50, 'tesseract': 70}
+2025-03-18 14:22:03,741 - lib.pdf_processing.agent - INFO - Applied image density adjustment (high)
+2025-03-18 14:22:03,742 - lib.pdf_processing.agent - INFO - Non-ASCII ratio: 0.006224066390041493
+2025-03-18 14:22:03,742 - lib.pdf_processing.agent - INFO - Final scores: {'pymupdf': 20, 'pdfplumber': 50, 'tesseract': 120}
+2025-03-18 14:22:03,742 - lib.pdf_processing.agent - INFO - Selected method: tesseract with score 120
+2025-03-18 14:22:03,742 - lib.pdf_processing.agent - INFO - Trying method tesseract with score 120
+2025-03-18 14:22:04,120 - lib.pdf_processing.agent - INFO - OCR confidence scores: [22.30496453900709]
+2025-03-18 14:22:04,120 - lib.pdf_processing.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 14:22:04,120 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240909_Hilton.pdf
+2025-03-18 14:22:04,120 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240909_Hilton.pdf
+2025-03-18 14:22:04,126 - lib.pdf_processing.agent - INFO - Document type: table_heavy
+2025-03-18 14:22:04,127 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 2.0785, 'image_density': 1.0, 'table_indicators': 32.5, 'scanned_indicators': 0.0}
+2025-03-18 14:22:04,127 - lib.pdf_processing.agent - INFO - Initial scores: {'pymupdf': 40, 'pdfplumber': 90, 'tesseract': 30}
+2025-03-18 14:22:04,127 - lib.pdf_processing.agent - INFO - Applied table adjustment (high)
+2025-03-18 14:22:04,127 - lib.pdf_processing.agent - INFO - Applied image density adjustment (high)
+2025-03-18 14:22:04,127 - lib.pdf_processing.agent - INFO - Applied text density adjustment (high)
+2025-03-18 14:22:04,129 - lib.pdf_processing.agent - INFO - Non-ASCII ratio: 0.019
+2025-03-18 14:22:04,129 - lib.pdf_processing.agent - INFO - Final scores: {'pymupdf': 20, 'pdfplumber': 140, 'tesseract': 50}
+2025-03-18 14:22:04,129 - lib.pdf_processing.agent - INFO - Selected method: pdfplumber with score 140
+2025-03-18 14:22:04,129 - lib.pdf_processing.agent - INFO - Trying method pdfplumber with score 140
+2025-03-18 14:22:04,215 - lib.pdf_processing.agent - INFO - Successfully processed PDF with pdfplumber
+2025-03-18 14:43:45,804 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 14:43:45,804 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 14:43:45,806 - lib.pdf_processing.agent - INFO - Document type: mixed
+2025-03-18 14:43:45,806 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 1, 'text_density': 0.33, 'image_density': 1.0, 'table_indicators': 1.0, 'scanned_indicators': 0.0}
+2025-03-18 14:43:45,806 - lib.pdf_processing.agent - INFO - Initial scores: {'pymupdf': 50, 'pdfplumber': 50, 'tesseract': 70}
+2025-03-18 14:43:45,806 - lib.pdf_processing.agent - INFO - Applied image density adjustment (high)
+2025-03-18 14:43:45,806 - lib.pdf_processing.agent - INFO - Applied text density adjustment (low)
+2025-03-18 14:43:45,807 - lib.pdf_processing.agent - INFO - Non-ASCII ratio: 0.10606060606060606
+2025-03-18 14:43:45,807 - lib.pdf_processing.agent - INFO - Applied non-ASCII adjustment
+2025-03-18 14:43:45,807 - lib.pdf_processing.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 20, 'tesseract': 220}
+2025-03-18 14:43:45,807 - lib.pdf_processing.agent - INFO - Selected method: tesseract with score 220
+2025-03-18 14:43:45,807 - lib.pdf_processing.agent - INFO - Trying method tesseract with score 220
+2025-03-18 14:43:45,999 - lib.pdf_processing.agent - INFO - OCR confidence scores: [26.166666666666668]
+2025-03-18 14:43:45,999 - lib.pdf_processing.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 14:43:45,999 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/aral_20240926.pdf
+2025-03-18 14:43:45,999 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/aral_20240926.pdf
+2025-03-18 14:43:46,005 - lib.pdf_processing.agent - INFO - Document type: table_heavy
+2025-03-18 14:43:46,005 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 1.9785, 'image_density': 1.0, 'table_indicators': 17.5, 'scanned_indicators': 0.0}
+2025-03-18 14:43:46,005 - lib.pdf_processing.agent - INFO - Initial scores: {'pymupdf': 40, 'pdfplumber': 90, 'tesseract': 30}
+2025-03-18 14:43:46,006 - lib.pdf_processing.agent - INFO - Applied table adjustment (high)
+2025-03-18 14:43:46,006 - lib.pdf_processing.agent - INFO - Applied image density adjustment (high)
+2025-03-18 14:43:46,006 - lib.pdf_processing.agent - INFO - Applied text density adjustment (high)
+2025-03-18 14:43:46,008 - lib.pdf_processing.agent - INFO - Non-ASCII ratio: 0.202
+2025-03-18 14:43:46,008 - lib.pdf_processing.agent - INFO - Applied non-ASCII adjustment
+2025-03-18 14:43:46,008 - lib.pdf_processing.agent - INFO - Applied high non-ASCII adjustment
+2025-03-18 14:43:46,008 - lib.pdf_processing.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 140, 'tesseract': 120}
+2025-03-18 14:43:46,008 - lib.pdf_processing.agent - INFO - Selected method: pdfplumber with score 140
+2025-03-18 14:43:46,008 - lib.pdf_processing.agent - INFO - Trying method pdfplumber with score 140
+2025-03-18 14:43:46,065 - lib.pdf_processing.agent - INFO - Successfully processed PDF with pdfplumber
+2025-03-18 14:43:46,065 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240327_002.pdf
+2025-03-18 14:43:46,065 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240327_002.pdf
+2025-03-18 14:43:46,067 - lib.pdf_processing.agent - INFO - Document type: mixed
+2025-03-18 14:43:46,067 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.2675, 'image_density': 1.0, 'table_indicators': 0.5, 'scanned_indicators': 0.0}
+2025-03-18 14:43:46,067 - lib.pdf_processing.agent - INFO - Initial scores: {'pymupdf': 50, 'pdfplumber': 50, 'tesseract': 70}
+2025-03-18 14:43:46,067 - lib.pdf_processing.agent - INFO - Applied image density adjustment (high)
+2025-03-18 14:43:46,067 - lib.pdf_processing.agent - INFO - Applied text density adjustment (low)
+2025-03-18 14:43:46,069 - lib.pdf_processing.agent - INFO - Non-ASCII ratio: 0.21121495327102804
+2025-03-18 14:43:46,069 - lib.pdf_processing.agent - INFO - Applied non-ASCII adjustment
+2025-03-18 14:43:46,069 - lib.pdf_processing.agent - INFO - Applied high non-ASCII adjustment
+2025-03-18 14:43:46,069 - lib.pdf_processing.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 20, 'tesseract': 250}
+2025-03-18 14:43:46,069 - lib.pdf_processing.agent - INFO - Selected method: tesseract with score 250
+2025-03-18 14:43:46,069 - lib.pdf_processing.agent - INFO - Trying method tesseract with score 250
+2025-03-18 14:43:46,381 - lib.pdf_processing.agent - INFO - OCR confidence scores: [21.866666666666667, -1.0]
+2025-03-18 14:43:46,381 - lib.pdf_processing.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 14:43:46,381 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/cora_20240918_010.pdf
+2025-03-18 14:43:46,381 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/cora_20240918_010.pdf
+2025-03-18 14:43:46,383 - lib.pdf_processing.agent - INFO - Document type: mixed
+2025-03-18 14:43:46,383 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 1, 'text_density': 0.482, 'image_density': 1.0, 'table_indicators': 0.0, 'scanned_indicators': 0.0}
+2025-03-18 14:43:46,383 - lib.pdf_processing.agent - INFO - Initial scores: {'pymupdf': 50, 'pdfplumber': 50, 'tesseract': 70}
+2025-03-18 14:43:46,383 - lib.pdf_processing.agent - INFO - Applied image density adjustment (high)
+2025-03-18 14:43:46,384 - lib.pdf_processing.agent - INFO - Non-ASCII ratio: 0.006224066390041493
+2025-03-18 14:43:46,384 - lib.pdf_processing.agent - INFO - Final scores: {'pymupdf': 20, 'pdfplumber': 50, 'tesseract': 120}
+2025-03-18 14:43:46,384 - lib.pdf_processing.agent - INFO - Selected method: tesseract with score 120
+2025-03-18 14:43:46,384 - lib.pdf_processing.agent - INFO - Trying method tesseract with score 120
+2025-03-18 14:43:46,761 - lib.pdf_processing.agent - INFO - OCR confidence scores: [22.30496453900709]
+2025-03-18 14:43:46,761 - lib.pdf_processing.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 14:43:46,762 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240909_Hilton.pdf
+2025-03-18 14:43:46,762 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240909_Hilton.pdf
+2025-03-18 14:43:46,768 - lib.pdf_processing.agent - INFO - Document type: table_heavy
+2025-03-18 14:43:46,768 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 2.0785, 'image_density': 1.0, 'table_indicators': 32.5, 'scanned_indicators': 0.0}
+2025-03-18 14:43:46,768 - lib.pdf_processing.agent - INFO - Initial scores: {'pymupdf': 40, 'pdfplumber': 90, 'tesseract': 30}
+2025-03-18 14:43:46,768 - lib.pdf_processing.agent - INFO - Applied table adjustment (high)
+2025-03-18 14:43:46,768 - lib.pdf_processing.agent - INFO - Applied image density adjustment (high)
+2025-03-18 14:43:46,768 - lib.pdf_processing.agent - INFO - Applied text density adjustment (high)
+2025-03-18 14:43:46,770 - lib.pdf_processing.agent - INFO - Non-ASCII ratio: 0.019
+2025-03-18 14:43:46,770 - lib.pdf_processing.agent - INFO - Final scores: {'pymupdf': 20, 'pdfplumber': 140, 'tesseract': 50}
+2025-03-18 14:43:46,770 - lib.pdf_processing.agent - INFO - Selected method: pdfplumber with score 140
+2025-03-18 14:43:46,770 - lib.pdf_processing.agent - INFO - Trying method pdfplumber with score 140
+2025-03-18 14:43:46,856 - lib.pdf_processing.agent - INFO - Successfully processed PDF with pdfplumber
+2025-03-18 14:51:03,724 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 14:51:03,725 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 14:51:03,726 - lib.pdf_processing.agent - INFO - Document type: mixed
+2025-03-18 14:51:03,726 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 1, 'text_density': 0.33, 'image_density': 1.0, 'table_indicators': 1.0, 'scanned_indicators': 0.0}
+2025-03-18 14:51:03,726 - lib.pdf_processing.agent - INFO - Initial scores: {'pymupdf': 50, 'pdfplumber': 50, 'tesseract': 70}
+2025-03-18 14:51:03,726 - lib.pdf_processing.agent - INFO - Applied image density adjustment (high)
+2025-03-18 14:51:03,726 - lib.pdf_processing.agent - INFO - Applied text density adjustment (low)
+2025-03-18 14:51:03,727 - lib.pdf_processing.agent - INFO - Non-ASCII ratio: 0.10606060606060606
+2025-03-18 14:51:03,727 - lib.pdf_processing.agent - INFO - Applied non-ASCII adjustment
+2025-03-18 14:51:03,727 - lib.pdf_processing.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 20, 'tesseract': 220}
+2025-03-18 14:51:03,727 - lib.pdf_processing.agent - INFO - Selected method: tesseract with score 220
+2025-03-18 14:51:03,727 - lib.pdf_processing.agent - INFO - Trying method tesseract with score 220
+2025-03-18 14:51:03,925 - lib.pdf_processing.agent - INFO - OCR confidence scores: [26.166666666666668]
+2025-03-18 14:51:03,925 - lib.pdf_processing.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 14:51:03,926 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/aral_20240926.pdf
+2025-03-18 14:51:03,926 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/aral_20240926.pdf
+2025-03-18 14:51:03,932 - lib.pdf_processing.agent - INFO - Document type: table_heavy
+2025-03-18 14:51:03,932 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 1.9785, 'image_density': 1.0, 'table_indicators': 17.5, 'scanned_indicators': 0.0}
+2025-03-18 14:51:03,932 - lib.pdf_processing.agent - INFO - Initial scores: {'pymupdf': 40, 'pdfplumber': 90, 'tesseract': 30}
+2025-03-18 14:51:03,932 - lib.pdf_processing.agent - INFO - Applied table adjustment (high)
+2025-03-18 14:51:03,932 - lib.pdf_processing.agent - INFO - Applied image density adjustment (high)
+2025-03-18 14:51:03,932 - lib.pdf_processing.agent - INFO - Applied text density adjustment (high)
+2025-03-18 14:51:03,934 - lib.pdf_processing.agent - INFO - Non-ASCII ratio: 0.202
+2025-03-18 14:51:03,934 - lib.pdf_processing.agent - INFO - Applied non-ASCII adjustment
+2025-03-18 14:51:03,934 - lib.pdf_processing.agent - INFO - Applied high non-ASCII adjustment
+2025-03-18 14:51:03,934 - lib.pdf_processing.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 140, 'tesseract': 120}
+2025-03-18 14:51:03,934 - lib.pdf_processing.agent - INFO - Selected method: pdfplumber with score 140
+2025-03-18 14:51:03,935 - lib.pdf_processing.agent - INFO - Trying method pdfplumber with score 140
+2025-03-18 14:51:03,991 - lib.pdf_processing.agent - INFO - Successfully processed PDF with pdfplumber
+2025-03-18 14:51:03,991 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240327_002.pdf
+2025-03-18 14:51:03,991 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240327_002.pdf
+2025-03-18 14:51:03,993 - lib.pdf_processing.agent - INFO - Document type: mixed
+2025-03-18 14:51:03,993 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.2675, 'image_density': 1.0, 'table_indicators': 0.5, 'scanned_indicators': 0.0}
+2025-03-18 14:51:03,993 - lib.pdf_processing.agent - INFO - Initial scores: {'pymupdf': 50, 'pdfplumber': 50, 'tesseract': 70}
+2025-03-18 14:51:03,993 - lib.pdf_processing.agent - INFO - Applied image density adjustment (high)
+2025-03-18 14:51:03,993 - lib.pdf_processing.agent - INFO - Applied text density adjustment (low)
+2025-03-18 14:51:03,994 - lib.pdf_processing.agent - INFO - Non-ASCII ratio: 0.21121495327102804
+2025-03-18 14:51:03,994 - lib.pdf_processing.agent - INFO - Applied non-ASCII adjustment
+2025-03-18 14:51:03,994 - lib.pdf_processing.agent - INFO - Applied high non-ASCII adjustment
+2025-03-18 14:51:03,994 - lib.pdf_processing.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 20, 'tesseract': 250}
+2025-03-18 14:51:03,994 - lib.pdf_processing.agent - INFO - Selected method: tesseract with score 250
+2025-03-18 14:51:03,994 - lib.pdf_processing.agent - INFO - Trying method tesseract with score 250
+2025-03-18 14:51:04,310 - lib.pdf_processing.agent - INFO - OCR confidence scores: [21.866666666666667, -1.0]
+2025-03-18 14:51:04,311 - lib.pdf_processing.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 14:51:04,311 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/cora_20240918_010.pdf
+2025-03-18 14:51:04,311 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/cora_20240918_010.pdf
+2025-03-18 14:51:04,313 - lib.pdf_processing.agent - INFO - Document type: mixed
+2025-03-18 14:51:04,313 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 1, 'text_density': 0.482, 'image_density': 1.0, 'table_indicators': 0.0, 'scanned_indicators': 0.0}
+2025-03-18 14:51:04,313 - lib.pdf_processing.agent - INFO - Initial scores: {'pymupdf': 50, 'pdfplumber': 50, 'tesseract': 70}
+2025-03-18 14:51:04,313 - lib.pdf_processing.agent - INFO - Applied image density adjustment (high)
+2025-03-18 14:51:04,314 - lib.pdf_processing.agent - INFO - Non-ASCII ratio: 0.006224066390041493
+2025-03-18 14:51:04,314 - lib.pdf_processing.agent - INFO - Final scores: {'pymupdf': 20, 'pdfplumber': 50, 'tesseract': 120}
+2025-03-18 14:51:04,314 - lib.pdf_processing.agent - INFO - Selected method: tesseract with score 120
+2025-03-18 14:51:04,314 - lib.pdf_processing.agent - INFO - Trying method tesseract with score 120
+2025-03-18 14:51:04,697 - lib.pdf_processing.agent - INFO - OCR confidence scores: [22.30496453900709]
+2025-03-18 14:51:04,697 - lib.pdf_processing.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 14:51:04,697 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240909_Hilton.pdf
+2025-03-18 14:51:04,697 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240909_Hilton.pdf
+2025-03-18 14:51:04,704 - lib.pdf_processing.agent - INFO - Document type: table_heavy
+2025-03-18 14:51:04,704 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 2.0785, 'image_density': 1.0, 'table_indicators': 32.5, 'scanned_indicators': 0.0}
+2025-03-18 14:51:04,704 - lib.pdf_processing.agent - INFO - Initial scores: {'pymupdf': 40, 'pdfplumber': 90, 'tesseract': 30}
+2025-03-18 14:51:04,704 - lib.pdf_processing.agent - INFO - Applied table adjustment (high)
+2025-03-18 14:51:04,704 - lib.pdf_processing.agent - INFO - Applied image density adjustment (high)
+2025-03-18 14:51:04,704 - lib.pdf_processing.agent - INFO - Applied text density adjustment (high)
+2025-03-18 14:51:04,706 - lib.pdf_processing.agent - INFO - Non-ASCII ratio: 0.019
+2025-03-18 14:51:04,706 - lib.pdf_processing.agent - INFO - Final scores: {'pymupdf': 20, 'pdfplumber': 140, 'tesseract': 50}
+2025-03-18 14:51:04,706 - lib.pdf_processing.agent - INFO - Selected method: pdfplumber with score 140
+2025-03-18 14:51:04,707 - lib.pdf_processing.agent - INFO - Trying method pdfplumber with score 140
+2025-03-18 14:51:04,795 - lib.pdf_processing.agent - INFO - Successfully processed PDF with pdfplumber
+2025-03-18 15:22:43,480 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 15:22:43,480 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 15:22:43,484 - lib.pdf_processing.agent - INFO - Document type: mixed
+2025-03-18 15:22:43,484 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 1, 'text_density': 0.33, 'image_density': 1.0, 'table_indicators': 1.0, 'scanned_indicators': 0.0}
+2025-03-18 15:22:43,484 - lib.pdf_processing.agent - INFO - Initial scores: {'pymupdf': 50, 'pdfplumber': 50, 'tesseract': 70}
+2025-03-18 15:22:43,484 - lib.pdf_processing.agent - INFO - Applied image density adjustment (high)
+2025-03-18 15:22:43,484 - lib.pdf_processing.agent - INFO - Applied text density adjustment (low)
+2025-03-18 15:22:43,485 - lib.pdf_processing.agent - INFO - Non-ASCII ratio: 0.10606060606060606
+2025-03-18 15:22:43,486 - lib.pdf_processing.agent - INFO - Applied non-ASCII adjustment
+2025-03-18 15:22:43,486 - lib.pdf_processing.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 20, 'tesseract': 220}
+2025-03-18 15:22:43,486 - lib.pdf_processing.agent - INFO - Selected method: tesseract with score 220
+2025-03-18 15:22:43,486 - lib.pdf_processing.agent - INFO - Trying method tesseract with score 220
+2025-03-18 15:22:43,801 - lib.pdf_processing.agent - INFO - OCR confidence scores: [26.166666666666668]
+2025-03-18 15:22:43,801 - lib.pdf_processing.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 15:22:43,801 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/aral_20240926.pdf
+2025-03-18 15:22:43,801 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/aral_20240926.pdf
+2025-03-18 15:22:43,808 - lib.pdf_processing.agent - INFO - Document type: table_heavy
+2025-03-18 15:22:43,808 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 1.9785, 'image_density': 1.0, 'table_indicators': 17.5, 'scanned_indicators': 0.0}
+2025-03-18 15:22:43,808 - lib.pdf_processing.agent - INFO - Initial scores: {'pymupdf': 40, 'pdfplumber': 90, 'tesseract': 30}
+2025-03-18 15:22:43,808 - lib.pdf_processing.agent - INFO - Applied table adjustment (high)
+2025-03-18 15:22:43,808 - lib.pdf_processing.agent - INFO - Applied image density adjustment (high)
+2025-03-18 15:22:43,808 - lib.pdf_processing.agent - INFO - Applied text density adjustment (high)
+2025-03-18 15:22:43,810 - lib.pdf_processing.agent - INFO - Non-ASCII ratio: 0.202
+2025-03-18 15:22:43,810 - lib.pdf_processing.agent - INFO - Applied non-ASCII adjustment
+2025-03-18 15:22:43,810 - lib.pdf_processing.agent - INFO - Applied high non-ASCII adjustment
+2025-03-18 15:22:43,810 - lib.pdf_processing.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 140, 'tesseract': 120}
+2025-03-18 15:22:43,810 - lib.pdf_processing.agent - INFO - Selected method: pdfplumber with score 140
+2025-03-18 15:22:43,810 - lib.pdf_processing.agent - INFO - Trying method pdfplumber with score 140
+2025-03-18 15:22:43,867 - lib.pdf_processing.agent - INFO - Successfully processed PDF with pdfplumber
+2025-03-18 15:22:43,868 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240327_002.pdf
+2025-03-18 15:22:43,868 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240327_002.pdf
+2025-03-18 15:22:43,869 - lib.pdf_processing.agent - INFO - Document type: mixed
+2025-03-18 15:22:43,869 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.2675, 'image_density': 1.0, 'table_indicators': 0.5, 'scanned_indicators': 0.0}
+2025-03-18 15:22:43,869 - lib.pdf_processing.agent - INFO - Initial scores: {'pymupdf': 50, 'pdfplumber': 50, 'tesseract': 70}
+2025-03-18 15:22:43,869 - lib.pdf_processing.agent - INFO - Applied image density adjustment (high)
+2025-03-18 15:22:43,869 - lib.pdf_processing.agent - INFO - Applied text density adjustment (low)
+2025-03-18 15:22:43,870 - lib.pdf_processing.agent - INFO - Non-ASCII ratio: 0.21121495327102804
+2025-03-18 15:22:43,870 - lib.pdf_processing.agent - INFO - Applied non-ASCII adjustment
+2025-03-18 15:22:43,870 - lib.pdf_processing.agent - INFO - Applied high non-ASCII adjustment
+2025-03-18 15:22:43,870 - lib.pdf_processing.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 20, 'tesseract': 250}
+2025-03-18 15:22:43,870 - lib.pdf_processing.agent - INFO - Selected method: tesseract with score 250
+2025-03-18 15:22:43,870 - lib.pdf_processing.agent - INFO - Trying method tesseract with score 250
+2025-03-18 15:22:44,185 - lib.pdf_processing.agent - INFO - OCR confidence scores: [21.866666666666667, -1.0]
+2025-03-18 15:22:44,185 - lib.pdf_processing.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 15:22:44,186 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/cora_20240918_010.pdf
+2025-03-18 15:22:44,186 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/cora_20240918_010.pdf
+2025-03-18 15:22:44,188 - lib.pdf_processing.agent - INFO - Document type: mixed
+2025-03-18 15:22:44,188 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 1, 'text_density': 0.482, 'image_density': 1.0, 'table_indicators': 0.0, 'scanned_indicators': 0.0}
+2025-03-18 15:22:44,188 - lib.pdf_processing.agent - INFO - Initial scores: {'pymupdf': 50, 'pdfplumber': 50, 'tesseract': 70}
+2025-03-18 15:22:44,188 - lib.pdf_processing.agent - INFO - Applied image density adjustment (high)
+2025-03-18 15:22:44,189 - lib.pdf_processing.agent - INFO - Non-ASCII ratio: 0.006224066390041493
+2025-03-18 15:22:44,189 - lib.pdf_processing.agent - INFO - Final scores: {'pymupdf': 20, 'pdfplumber': 50, 'tesseract': 120}
+2025-03-18 15:22:44,189 - lib.pdf_processing.agent - INFO - Selected method: tesseract with score 120
+2025-03-18 15:22:44,189 - lib.pdf_processing.agent - INFO - Trying method tesseract with score 120
+2025-03-18 15:22:44,568 - lib.pdf_processing.agent - INFO - OCR confidence scores: [22.30496453900709]
+2025-03-18 15:22:44,568 - lib.pdf_processing.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 15:22:44,568 - lib.pdf_processing.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240909_Hilton.pdf
+2025-03-18 15:22:44,569 - lib.pdf_processing.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_framework/examples/pdf_processing/test_pdfs/20240909_Hilton.pdf
+2025-03-18 15:22:44,575 - lib.pdf_processing.agent - INFO - Document type: table_heavy
+2025-03-18 15:22:44,575 - lib.pdf_processing.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 2.0785, 'image_density': 1.0, 'table_indicators': 32.5, 'scanned_indicators': 0.0}
+2025-03-18 15:22:44,575 - lib.pdf_processing.agent - INFO - Initial scores: {'pymupdf': 40, 'pdfplumber': 90, 'tesseract': 30}
+2025-03-18 15:22:44,575 - lib.pdf_processing.agent - INFO - Applied table adjustment (high)
+2025-03-18 15:22:44,575 - lib.pdf_processing.agent - INFO - Applied image density adjustment (high)
+2025-03-18 15:22:44,575 - lib.pdf_processing.agent - INFO - Applied text density adjustment (high)
+2025-03-18 15:22:44,577 - lib.pdf_processing.agent - INFO - Non-ASCII ratio: 0.019
+2025-03-18 15:22:44,577 - lib.pdf_processing.agent - INFO - Final scores: {'pymupdf': 20, 'pdfplumber': 140, 'tesseract': 50}
+2025-03-18 15:22:44,577 - lib.pdf_processing.agent - INFO - Selected method: pdfplumber with score 140
+2025-03-18 15:22:44,577 - lib.pdf_processing.agent - INFO - Trying method pdfplumber with score 140
+2025-03-18 15:22:44,631 - lib.pdf_processing.agent - INFO - Successfully processed PDF with pdfplumber
+2025-03-18 15:59:06,465 - test_pdf.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/test_pdf/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 15:59:06,465 - test_pdf.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/test_pdf/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 15:59:06,468 - test_pdf.agent - INFO - Document type: mixed
+2025-03-18 15:59:06,468 - test_pdf.agent - INFO - Characteristics: {'page_count': 1, 'text_density': 0.33, 'image_density': 1.0, 'table_indicators': 1.0, 'scanned_indicators': 0.0}
+2025-03-18 15:59:06,468 - test_pdf.agent - INFO - Initial scores: {'pymupdf': 50, 'pdfplumber': 50, 'tesseract': 70}
+2025-03-18 15:59:06,468 - test_pdf.agent - INFO - Applied image density adjustment (high)
+2025-03-18 15:59:06,468 - test_pdf.agent - INFO - Applied text density adjustment (low)
+2025-03-18 15:59:06,469 - test_pdf.agent - INFO - Non-ASCII ratio: 0.10606060606060606
+2025-03-18 15:59:06,469 - test_pdf.agent - INFO - Applied non-ASCII adjustment
+2025-03-18 15:59:06,469 - test_pdf.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 20, 'tesseract': 220}
+2025-03-18 15:59:06,469 - test_pdf.agent - INFO - Selected method: tesseract with score 220
+2025-03-18 15:59:06,469 - test_pdf.agent - INFO - Trying method tesseract with score 220
+2025-03-18 15:59:06,774 - test_pdf.agent - INFO - OCR confidence scores: [26.166666666666668]
+2025-03-18 15:59:06,775 - test_pdf.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 15:59:06,775 - test_pdf.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/test_pdf/test_pdfs/aral_20240926.pdf
+2025-03-18 15:59:06,775 - test_pdf.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/test_pdf/test_pdfs/aral_20240926.pdf
+2025-03-18 15:59:06,781 - test_pdf.agent - INFO - Document type: table_heavy
+2025-03-18 15:59:06,781 - test_pdf.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 1.9785, 'image_density': 1.0, 'table_indicators': 17.5, 'scanned_indicators': 0.0}
+2025-03-18 15:59:06,781 - test_pdf.agent - INFO - Initial scores: {'pymupdf': 40, 'pdfplumber': 90, 'tesseract': 30}
+2025-03-18 15:59:06,781 - test_pdf.agent - INFO - Applied table adjustment (high)
+2025-03-18 15:59:06,781 - test_pdf.agent - INFO - Applied image density adjustment (high)
+2025-03-18 15:59:06,781 - test_pdf.agent - INFO - Applied text density adjustment (high)
+2025-03-18 15:59:06,783 - test_pdf.agent - INFO - Non-ASCII ratio: 0.202
+2025-03-18 15:59:06,783 - test_pdf.agent - INFO - Applied non-ASCII adjustment
+2025-03-18 15:59:06,783 - test_pdf.agent - INFO - Applied high non-ASCII adjustment
+2025-03-18 15:59:06,783 - test_pdf.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 140, 'tesseract': 120}
+2025-03-18 15:59:06,783 - test_pdf.agent - INFO - Selected method: pdfplumber with score 140
+2025-03-18 15:59:06,783 - test_pdf.agent - INFO - Trying method pdfplumber with score 140
+2025-03-18 15:59:06,840 - test_pdf.agent - INFO - Successfully processed PDF with pdfplumber
+2025-03-18 15:59:06,840 - test_pdf.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/test_pdf/test_pdfs/20240327_002.pdf
+2025-03-18 15:59:06,840 - test_pdf.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/test_pdf/test_pdfs/20240327_002.pdf
+2025-03-18 15:59:06,842 - test_pdf.agent - INFO - Document type: mixed
+2025-03-18 15:59:06,842 - test_pdf.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.2675, 'image_density': 1.0, 'table_indicators': 0.5, 'scanned_indicators': 0.0}
+2025-03-18 15:59:06,842 - test_pdf.agent - INFO - Initial scores: {'pymupdf': 50, 'pdfplumber': 50, 'tesseract': 70}
+2025-03-18 15:59:06,842 - test_pdf.agent - INFO - Applied image density adjustment (high)
+2025-03-18 15:59:06,842 - test_pdf.agent - INFO - Applied text density adjustment (low)
+2025-03-18 15:59:06,843 - test_pdf.agent - INFO - Non-ASCII ratio: 0.21121495327102804
+2025-03-18 15:59:06,844 - test_pdf.agent - INFO - Applied non-ASCII adjustment
+2025-03-18 15:59:06,844 - test_pdf.agent - INFO - Applied high non-ASCII adjustment
+2025-03-18 15:59:06,844 - test_pdf.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 20, 'tesseract': 250}
+2025-03-18 15:59:06,844 - test_pdf.agent - INFO - Selected method: tesseract with score 250
+2025-03-18 15:59:06,844 - test_pdf.agent - INFO - Trying method tesseract with score 250
+2025-03-18 15:59:07,157 - test_pdf.agent - INFO - OCR confidence scores: [21.866666666666667, -1.0]
+2025-03-18 15:59:07,157 - test_pdf.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 15:59:07,158 - test_pdf.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/test_pdf/test_pdfs/cora_20240918_010.pdf
+2025-03-18 15:59:07,158 - test_pdf.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/test_pdf/test_pdfs/cora_20240918_010.pdf
+2025-03-18 15:59:07,160 - test_pdf.agent - INFO - Document type: mixed
+2025-03-18 15:59:07,160 - test_pdf.agent - INFO - Characteristics: {'page_count': 1, 'text_density': 0.482, 'image_density': 1.0, 'table_indicators': 0.0, 'scanned_indicators': 0.0}
+2025-03-18 15:59:07,160 - test_pdf.agent - INFO - Initial scores: {'pymupdf': 50, 'pdfplumber': 50, 'tesseract': 70}
+2025-03-18 15:59:07,160 - test_pdf.agent - INFO - Applied image density adjustment (high)
+2025-03-18 15:59:07,161 - test_pdf.agent - INFO - Non-ASCII ratio: 0.006224066390041493
+2025-03-18 15:59:07,161 - test_pdf.agent - INFO - Final scores: {'pymupdf': 20, 'pdfplumber': 50, 'tesseract': 120}
+2025-03-18 15:59:07,161 - test_pdf.agent - INFO - Selected method: tesseract with score 120
+2025-03-18 15:59:07,161 - test_pdf.agent - INFO - Trying method tesseract with score 120
+2025-03-18 15:59:07,539 - test_pdf.agent - INFO - OCR confidence scores: [22.30496453900709]
+2025-03-18 15:59:07,539 - test_pdf.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 15:59:07,539 - test_pdf.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/test_pdf/test_pdfs/20240909_Hilton.pdf
+2025-03-18 15:59:07,539 - test_pdf.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/test_pdf/test_pdfs/20240909_Hilton.pdf
+2025-03-18 15:59:07,546 - test_pdf.agent - INFO - Document type: table_heavy
+2025-03-18 15:59:07,546 - test_pdf.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 2.0785, 'image_density': 1.0, 'table_indicators': 32.5, 'scanned_indicators': 0.0}
+2025-03-18 15:59:07,546 - test_pdf.agent - INFO - Initial scores: {'pymupdf': 40, 'pdfplumber': 90, 'tesseract': 30}
+2025-03-18 15:59:07,546 - test_pdf.agent - INFO - Applied table adjustment (high)
+2025-03-18 15:59:07,546 - test_pdf.agent - INFO - Applied image density adjustment (high)
+2025-03-18 15:59:07,546 - test_pdf.agent - INFO - Applied text density adjustment (high)
+2025-03-18 15:59:07,548 - test_pdf.agent - INFO - Non-ASCII ratio: 0.019
+2025-03-18 15:59:07,548 - test_pdf.agent - INFO - Final scores: {'pymupdf': 20, 'pdfplumber': 140, 'tesseract': 50}
+2025-03-18 15:59:07,548 - test_pdf.agent - INFO - Selected method: pdfplumber with score 140
+2025-03-18 15:59:07,548 - test_pdf.agent - INFO - Trying method pdfplumber with score 140
+2025-03-18 15:59:07,602 - test_pdf.agent - INFO - Successfully processed PDF with pdfplumber
+2025-03-18 16:17:13,196 - pdf_agent.agent - INFO - Processing PDF: pdf_agent/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 16:17:13,196 - pdf_agent.agent - INFO - Selecting method for pdf_agent/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 16:17:13,197 - pdf_agent.agent - INFO - Document type: mixed
+2025-03-18 16:17:13,197 - pdf_agent.agent - INFO - Characteristics: {'page_count': 1, 'text_density': 0.33, 'image_density': 1.0, 'table_indicators': 1.0, 'scanned_indicators': 0.0}
+2025-03-18 16:17:13,197 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 50, 'pdfplumber': 50, 'tesseract': 70}
+2025-03-18 16:17:13,198 - pdf_agent.agent - INFO - Applied image density adjustment (high)
+2025-03-18 16:17:13,198 - pdf_agent.agent - INFO - Applied text density adjustment (low)
+2025-03-18 16:17:13,198 - pdf_agent.agent - INFO - Non-ASCII ratio: 0.10606060606060606
+2025-03-18 16:17:13,198 - pdf_agent.agent - INFO - Applied non-ASCII adjustment
+2025-03-18 16:17:13,198 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 20, 'tesseract': 220}
+2025-03-18 16:17:13,198 - pdf_agent.agent - INFO - Selected method: tesseract with score 220
+2025-03-18 16:17:13,199 - pdf_agent.agent - INFO - Trying method tesseract with score 220
+2025-03-18 16:17:13,409 - pdf_agent.agent - INFO - OCR confidence scores: [26.166666666666668]
+2025-03-18 16:17:13,409 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:17:13,410 - pdf_agent.agent - INFO - Processing PDF: pdf_agent/test_pdfs/aral_20240926.pdf
+2025-03-18 16:17:13,410 - pdf_agent.agent - INFO - Selecting method for pdf_agent/test_pdfs/aral_20240926.pdf
+2025-03-18 16:17:13,415 - pdf_agent.agent - INFO - Document type: table_heavy
+2025-03-18 16:17:13,416 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 1.9785, 'image_density': 1.0, 'table_indicators': 17.5, 'scanned_indicators': 0.0}
+2025-03-18 16:17:13,416 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 40, 'pdfplumber': 90, 'tesseract': 30}
+2025-03-18 16:17:13,416 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:17:13,416 - pdf_agent.agent - INFO - Applied image density adjustment (high)
+2025-03-18 16:17:13,416 - pdf_agent.agent - INFO - Applied text density adjustment (high)
+2025-03-18 16:17:13,418 - pdf_agent.agent - INFO - Non-ASCII ratio: 0.202
+2025-03-18 16:17:13,418 - pdf_agent.agent - INFO - Applied non-ASCII adjustment
+2025-03-18 16:17:13,418 - pdf_agent.agent - INFO - Applied high non-ASCII adjustment
+2025-03-18 16:17:13,418 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 140, 'tesseract': 120}
+2025-03-18 16:17:13,418 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 140
+2025-03-18 16:17:13,418 - pdf_agent.agent - INFO - Trying method pdfplumber with score 140
+2025-03-18 16:17:13,475 - pdf_agent.agent - INFO - Successfully processed PDF with pdfplumber
+2025-03-18 16:17:13,476 - pdf_agent.agent - INFO - Processing PDF: pdf_agent/test_pdfs/20240327_002.pdf
+2025-03-18 16:17:13,476 - pdf_agent.agent - INFO - Selecting method for pdf_agent/test_pdfs/20240327_002.pdf
+2025-03-18 16:17:13,478 - pdf_agent.agent - INFO - Document type: mixed
+2025-03-18 16:17:13,478 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.2675, 'image_density': 1.0, 'table_indicators': 0.5, 'scanned_indicators': 0.0}
+2025-03-18 16:17:13,478 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 50, 'pdfplumber': 50, 'tesseract': 70}
+2025-03-18 16:17:13,478 - pdf_agent.agent - INFO - Applied image density adjustment (high)
+2025-03-18 16:17:13,478 - pdf_agent.agent - INFO - Applied text density adjustment (low)
+2025-03-18 16:17:13,479 - pdf_agent.agent - INFO - Non-ASCII ratio: 0.21121495327102804
+2025-03-18 16:17:13,479 - pdf_agent.agent - INFO - Applied non-ASCII adjustment
+2025-03-18 16:17:13,479 - pdf_agent.agent - INFO - Applied high non-ASCII adjustment
+2025-03-18 16:17:13,479 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 20, 'tesseract': 250}
+2025-03-18 16:17:13,479 - pdf_agent.agent - INFO - Selected method: tesseract with score 250
+2025-03-18 16:17:13,479 - pdf_agent.agent - INFO - Trying method tesseract with score 250
+2025-03-18 16:17:13,791 - pdf_agent.agent - INFO - OCR confidence scores: [21.866666666666667, -1.0]
+2025-03-18 16:17:13,791 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:17:13,791 - pdf_agent.agent - INFO - Processing PDF: pdf_agent/test_pdfs/cora_20240918_010.pdf
+2025-03-18 16:17:13,791 - pdf_agent.agent - INFO - Selecting method for pdf_agent/test_pdfs/cora_20240918_010.pdf
+2025-03-18 16:17:13,793 - pdf_agent.agent - INFO - Document type: mixed
+2025-03-18 16:17:13,793 - pdf_agent.agent - INFO - Characteristics: {'page_count': 1, 'text_density': 0.482, 'image_density': 1.0, 'table_indicators': 0.0, 'scanned_indicators': 0.0}
+2025-03-18 16:17:13,793 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 50, 'pdfplumber': 50, 'tesseract': 70}
+2025-03-18 16:17:13,793 - pdf_agent.agent - INFO - Applied image density adjustment (high)
+2025-03-18 16:17:13,794 - pdf_agent.agent - INFO - Non-ASCII ratio: 0.006224066390041493
+2025-03-18 16:17:13,794 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 20, 'pdfplumber': 50, 'tesseract': 120}
+2025-03-18 16:17:13,794 - pdf_agent.agent - INFO - Selected method: tesseract with score 120
+2025-03-18 16:17:13,794 - pdf_agent.agent - INFO - Trying method tesseract with score 120
+2025-03-18 16:17:14,173 - pdf_agent.agent - INFO - OCR confidence scores: [22.30496453900709]
+2025-03-18 16:17:14,173 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:17:14,173 - pdf_agent.agent - INFO - Processing PDF: pdf_agent/test_pdfs/20240909_Hilton.pdf
+2025-03-18 16:17:14,174 - pdf_agent.agent - INFO - Selecting method for pdf_agent/test_pdfs/20240909_Hilton.pdf
+2025-03-18 16:17:14,179 - pdf_agent.agent - INFO - Document type: table_heavy
+2025-03-18 16:17:14,180 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 2.0785, 'image_density': 1.0, 'table_indicators': 32.5, 'scanned_indicators': 0.0}
+2025-03-18 16:17:14,180 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 40, 'pdfplumber': 90, 'tesseract': 30}
+2025-03-18 16:17:14,180 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:17:14,180 - pdf_agent.agent - INFO - Applied image density adjustment (high)
+2025-03-18 16:17:14,180 - pdf_agent.agent - INFO - Applied text density adjustment (high)
+2025-03-18 16:17:14,182 - pdf_agent.agent - INFO - Non-ASCII ratio: 0.019
+2025-03-18 16:17:14,182 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 20, 'pdfplumber': 140, 'tesseract': 50}
+2025-03-18 16:17:14,182 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 140
+2025-03-18 16:17:14,182 - pdf_agent.agent - INFO - Trying method pdfplumber with score 140
+2025-03-18 16:17:14,235 - pdf_agent.agent - INFO - Successfully processed PDF with pdfplumber
+2025-03-18 16:28:16,823 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:28:16,823 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:28:16,829 - pdf_agent.agent - INFO - Document type: table_heavy
+2025-03-18 16:28:16,829 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 1.9785, 'image_density': 1.0, 'table_indicators': 17.5, 'scanned_indicators': 0.0}
+2025-03-18 16:28:16,829 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 40, 'pdfplumber': 90, 'tesseract': 30}
+2025-03-18 16:28:16,829 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:28:16,829 - pdf_agent.agent - INFO - Applied image density adjustment (high)
+2025-03-18 16:28:16,829 - pdf_agent.agent - INFO - Applied text density adjustment (high)
+2025-03-18 16:28:16,831 - pdf_agent.agent - INFO - Non-ASCII ratio: 0.202
+2025-03-18 16:28:16,831 - pdf_agent.agent - INFO - Applied non-ASCII adjustment
+2025-03-18 16:28:16,831 - pdf_agent.agent - INFO - Applied high non-ASCII adjustment
+2025-03-18 16:28:16,832 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 140, 'tesseract': 120}
+2025-03-18 16:28:16,832 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 140
+2025-03-18 16:28:16,832 - pdf_agent.agent - INFO - Trying method pdfplumber with score 140
+2025-03-18 16:28:16,887 - pdf_agent.agent - INFO - Successfully processed PDF with pdfplumber
+2025-03-18 16:28:16,888 - pdf_agent.agent - INFO - Processing PDF: nonexistent.pdf
+2025-03-18 16:28:16,888 - pdf_agent.agent - INFO - Selecting method for nonexistent.pdf
+2025-03-18 16:28:16,888 - pdf_agent.agent - ERROR - Failed to open PDF: nonexistent.pdf - no such file: 'nonexistent.pdf'
+2025-03-18 16:28:16,889 - pdf_agent.agent - WARNING - Error in analysis: Failed to open PDF: no such file: 'nonexistent.pdf'
+2025-03-18 16:28:16,889 - pdf_agent.agent - INFO - Trying method pymupdf with score 100
+2025-03-18 16:28:16,889 - pdf_agent.agent - WARNING - Error processing PDF with pymupdf: no such file: 'nonexistent.pdf'
+2025-03-18 16:28:16,889 - pdf_agent.agent - INFO - Trying method pdfplumber with score 0
+2025-03-18 16:28:16,889 - pdf_agent.agent - WARNING - Error processing PDF with pdfplumber: [Errno 2] No such file or directory: 'nonexistent.pdf'
+2025-03-18 16:28:16,889 - pdf_agent.agent - INFO - Trying method tesseract with score 0
+2025-03-18 16:28:16,889 - pdf_agent.agent - WARNING - Error processing PDF with tesseract: no such file: 'nonexistent.pdf'
+2025-03-18 16:28:16,889 - pdf_agent.agent - ERROR - All methods failed to process nonexistent.pdf
+2025-03-18 16:28:16,890 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:28:16,890 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:28:16,896 - pdf_agent.agent - INFO - Document type: table_heavy
+2025-03-18 16:28:16,896 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 1.9785, 'image_density': 1.0, 'table_indicators': 17.5, 'scanned_indicators': 0.0}
+2025-03-18 16:28:16,896 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 40, 'pdfplumber': 90, 'tesseract': 30}
+2025-03-18 16:28:16,896 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:28:16,896 - pdf_agent.agent - INFO - Applied image density adjustment (high)
+2025-03-18 16:28:16,896 - pdf_agent.agent - INFO - Applied text density adjustment (high)
+2025-03-18 16:28:16,898 - pdf_agent.agent - INFO - Non-ASCII ratio: 0.202
+2025-03-18 16:28:16,898 - pdf_agent.agent - INFO - Applied non-ASCII adjustment
+2025-03-18 16:28:16,898 - pdf_agent.agent - INFO - Applied high non-ASCII adjustment
+2025-03-18 16:28:16,898 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 140, 'tesseract': 120}
+2025-03-18 16:28:16,898 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 140
+2025-03-18 16:28:16,898 - pdf_agent.agent - INFO - Trying method pdfplumber with score 140
+2025-03-18 16:28:16,952 - pdf_agent.agent - INFO - Successfully processed PDF with pdfplumber
+2025-03-18 16:28:16,954 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 16:28:16,954 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 16:28:16,956 - pdf_agent.agent - INFO - Document type: mixed
+2025-03-18 16:28:16,956 - pdf_agent.agent - INFO - Characteristics: {'page_count': 1, 'text_density': 0.33, 'image_density': 1.0, 'table_indicators': 1.0, 'scanned_indicators': 0.0}
+2025-03-18 16:28:16,956 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 50, 'pdfplumber': 50, 'tesseract': 70}
+2025-03-18 16:28:16,956 - pdf_agent.agent - INFO - Applied image density adjustment (high)
+2025-03-18 16:28:16,956 - pdf_agent.agent - INFO - Applied text density adjustment (low)
+2025-03-18 16:28:16,957 - pdf_agent.agent - INFO - Non-ASCII ratio: 0.10606060606060606
+2025-03-18 16:28:16,957 - pdf_agent.agent - INFO - Applied non-ASCII adjustment
+2025-03-18 16:28:16,957 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 20, 'tesseract': 220}
+2025-03-18 16:28:16,957 - pdf_agent.agent - INFO - Selected method: tesseract with score 220
+2025-03-18 16:28:16,957 - pdf_agent.agent - INFO - Trying method tesseract with score 220
+2025-03-18 16:28:17,165 - pdf_agent.agent - INFO - OCR confidence scores: [26.166666666666668]
+2025-03-18 16:28:17,165 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:28:17,165 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:28:17,165 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:28:17,171 - pdf_agent.agent - INFO - Document type: table_heavy
+2025-03-18 16:28:17,171 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 1.9785, 'image_density': 1.0, 'table_indicators': 17.5, 'scanned_indicators': 0.0}
+2025-03-18 16:28:17,171 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 40, 'pdfplumber': 90, 'tesseract': 30}
+2025-03-18 16:28:17,171 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:28:17,171 - pdf_agent.agent - INFO - Applied image density adjustment (high)
+2025-03-18 16:28:17,171 - pdf_agent.agent - INFO - Applied text density adjustment (high)
+2025-03-18 16:28:17,173 - pdf_agent.agent - INFO - Non-ASCII ratio: 0.202
+2025-03-18 16:28:17,173 - pdf_agent.agent - INFO - Applied non-ASCII adjustment
+2025-03-18 16:28:17,173 - pdf_agent.agent - INFO - Applied high non-ASCII adjustment
+2025-03-18 16:28:17,173 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 140, 'tesseract': 120}
+2025-03-18 16:28:17,173 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 140
+2025-03-18 16:28:17,173 - pdf_agent.agent - INFO - Trying method pdfplumber with score 140
+2025-03-18 16:28:17,228 - pdf_agent.agent - INFO - Successfully processed PDF with pdfplumber
+2025-03-18 16:31:46,583 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:31:46,588 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:31:46,589 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:31:46,589 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:31:46,589 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:31:46,589 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:31:46,592 - pdf_agent.agent - WARNING - Error in analysis: name 'calculate_non_ascii_ratio' is not defined
+2025-03-18 16:31:46,634 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:31:46,634 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:31:46,640 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:31:46,640 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:31:46,640 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:31:46,640 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:31:46,640 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:31:46,643 - pdf_agent.agent - WARNING - Error in analysis: name 'calculate_non_ascii_ratio' is not defined
+2025-03-18 16:31:46,649 - pdf_agent.agent - INFO - Processing PDF: nonexistent.pdf
+2025-03-18 16:31:46,649 - pdf_agent.agent - INFO - Selecting method for nonexistent.pdf
+2025-03-18 16:31:46,649 - pdf_agent.agent - ERROR - Failed to open PDF: nonexistent.pdf - no such file: 'nonexistent.pdf'
+2025-03-18 16:31:46,649 - pdf_agent.agent - INFO - Processing PDF: test.txt
+2025-03-18 16:31:46,649 - pdf_agent.agent - INFO - Selecting method for test.txt
+2025-03-18 16:31:46,649 - pdf_agent.agent - ERROR - Failed to open PDF: test.txt - no such file: 'test.txt'
+2025-03-18 16:31:46,795 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:31:46,795 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:31:46,801 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:31:46,801 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:31:46,801 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:31:46,801 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:31:46,801 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:31:46,804 - pdf_agent.agent - WARNING - Error in analysis: name 'calculate_non_ascii_ratio' is not defined
+2025-03-18 16:31:46,810 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 16:31:46,811 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 16:31:46,812 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:31:46,812 - pdf_agent.agent - INFO - Characteristics: {'page_count': 1, 'text_density': 0.9333333333333333, 'image_density': 0.06666666666666667, 'table_indicators': 7.0, 'scanned_indicators': 1.0}
+2025-03-18 16:31:46,812 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:31:46,812 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:31:46,812 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:31:46,813 - pdf_agent.agent - WARNING - Error in analysis: name 'calculate_non_ascii_ratio' is not defined
+2025-03-18 16:32:14,287 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:32:14,292 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:32:14,292 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:32:14,292 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:32:14,292 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:32:14,292 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:32:14,292 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 80}
+2025-03-18 16:32:14,292 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:32:14,334 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:32:14,334 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:32:14,339 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:32:14,339 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:32:14,339 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:32:14,339 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:32:14,339 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:32:14,339 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 80}
+2025-03-18 16:32:14,339 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:32:14,339 - pdf_agent.agent - INFO - Trying method pdfplumber with score 80
+2025-03-18 16:32:14,395 - pdf_agent.agent - INFO - Successfully processed PDF with pdfplumber
+2025-03-18 16:32:14,396 - pdf_agent.agent - INFO - Processing PDF: nonexistent.pdf
+2025-03-18 16:32:14,396 - pdf_agent.agent - INFO - Selecting method for nonexistent.pdf
+2025-03-18 16:32:14,396 - pdf_agent.agent - ERROR - Failed to open PDF: nonexistent.pdf - no such file: 'nonexistent.pdf'
+2025-03-18 16:32:14,396 - pdf_agent.agent - INFO - Processing PDF: test.txt
+2025-03-18 16:32:14,397 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:32:14,397 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:32:14,402 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:32:14,402 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:32:14,402 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:32:14,402 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:32:14,402 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:32:14,402 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 80}
+2025-03-18 16:32:14,402 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:32:14,402 - pdf_agent.agent - INFO - Trying method pdfplumber with score 80
+2025-03-18 16:32:14,457 - pdf_agent.agent - INFO - Successfully processed PDF with pdfplumber
+2025-03-18 16:32:14,459 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 16:32:14,459 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 16:32:14,460 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:32:14,460 - pdf_agent.agent - INFO - Characteristics: {'page_count': 1, 'text_density': 0.9333333333333333, 'image_density': 0.06666666666666667, 'table_indicators': 7.0, 'scanned_indicators': 1.0}
+2025-03-18 16:32:14,460 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:32:14,460 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:32:14,460 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:32:14,460 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 80}
+2025-03-18 16:32:14,460 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:32:14,460 - pdf_agent.agent - INFO - Trying method pdfplumber with score 80
+2025-03-18 16:32:14,466 - pdf_agent.agent - INFO - Successfully processed PDF with pdfplumber
+2025-03-18 16:32:14,466 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:32:14,466 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:32:14,472 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:32:14,472 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:32:14,472 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:32:14,472 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:32:14,472 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:32:14,472 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 80}
+2025-03-18 16:32:14,472 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:32:14,472 - pdf_agent.agent - INFO - Trying method pdfplumber with score 80
+2025-03-18 16:32:14,526 - pdf_agent.agent - INFO - Successfully processed PDF with pdfplumber
+2025-03-18 16:34:03,945 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:34:03,950 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:34:03,950 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:34:03,950 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:34:03,950 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:34:03,950 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:34:03,950 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 80}
+2025-03-18 16:34:03,950 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:34:03,950 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 16:34:03,952 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:34:03,952 - pdf_agent.agent - INFO - Characteristics: {'page_count': 1, 'text_density': 0.9333333333333333, 'image_density': 0.06666666666666667, 'table_indicators': 7.0, 'scanned_indicators': 1.0}
+2025-03-18 16:34:03,952 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:34:03,952 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:34:03,952 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:34:03,952 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 80}
+2025-03-18 16:34:03,952 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:34:03,993 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:34:03,993 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:34:03,999 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:34:03,999 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:34:03,999 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:34:03,999 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:34:03,999 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:34:03,999 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 80}
+2025-03-18 16:34:03,999 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:34:04,005 - pdf_agent.agent - INFO - Trying method tesseract with score 90
+2025-03-18 16:34:05,334 - pdf_agent.agent - INFO - OCR confidence scores: [17.22110552763819, 28.470588235294116]
+2025-03-18 16:34:05,334 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:34:05,336 - pdf_agent.agent - INFO - Processing PDF: nonexistent.pdf
+2025-03-18 16:34:05,336 - pdf_agent.agent - INFO - Selecting method for nonexistent.pdf
+2025-03-18 16:34:05,336 - pdf_agent.agent - ERROR - Failed to open PDF: nonexistent.pdf - no such file: 'nonexistent.pdf'
+2025-03-18 16:34:05,336 - pdf_agent.agent - INFO - Processing PDF: test.txt
+2025-03-18 16:34:05,336 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:34:05,336 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:34:05,342 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:34:05,342 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:34:05,342 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:34:05,342 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:34:05,342 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:34:05,342 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 80}
+2025-03-18 16:34:05,342 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:34:05,348 - pdf_agent.agent - INFO - Trying method tesseract with score 90
+2025-03-18 16:34:06,660 - pdf_agent.agent - INFO - OCR confidence scores: [17.22110552763819, 28.470588235294116]
+2025-03-18 16:34:06,660 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:34:06,663 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 16:34:06,663 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 16:34:06,664 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:34:06,664 - pdf_agent.agent - INFO - Characteristics: {'page_count': 1, 'text_density': 0.9333333333333333, 'image_density': 0.06666666666666667, 'table_indicators': 7.0, 'scanned_indicators': 1.0}
+2025-03-18 16:34:06,664 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:34:06,664 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:34:06,665 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:34:06,665 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 80}
+2025-03-18 16:34:06,665 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:34:06,666 - pdf_agent.agent - INFO - Trying method tesseract with score 90
+2025-03-18 16:34:06,855 - pdf_agent.agent - INFO - OCR confidence scores: [26.166666666666668]
+2025-03-18 16:34:06,856 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:34:06,856 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:34:06,856 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:34:06,862 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:34:06,862 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:34:06,862 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:34:06,862 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:34:06,862 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:34:06,862 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 80}
+2025-03-18 16:34:06,862 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:34:06,867 - pdf_agent.agent - INFO - Trying method tesseract with score 90
+2025-03-18 16:34:08,182 - pdf_agent.agent - INFO - OCR confidence scores: [17.22110552763819, 28.470588235294116]
+2025-03-18 16:34:08,182 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:35:33,103 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:35:33,109 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:35:33,109 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:35:33,109 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:35:33,109 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:35:33,109 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:35:33,109 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 60}
+2025-03-18 16:35:33,109 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:35:33,109 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 16:35:33,110 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:35:33,110 - pdf_agent.agent - INFO - Characteristics: {'page_count': 1, 'text_density': 0.9333333333333333, 'image_density': 0.06666666666666667, 'table_indicators': 7.0, 'scanned_indicators': 1.0}
+2025-03-18 16:35:33,110 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:35:33,110 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:35:33,110 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:35:33,110 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 60}
+2025-03-18 16:35:33,110 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:35:33,150 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:35:33,150 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:35:33,156 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:35:33,156 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:35:33,156 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:35:33,156 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:35:33,156 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:35:33,156 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 60}
+2025-03-18 16:35:33,156 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:35:33,161 - pdf_agent.agent - INFO - Trying method tesseract with score 90
+2025-03-18 16:35:34,484 - pdf_agent.agent - INFO - OCR confidence scores: [17.22110552763819, 28.470588235294116]
+2025-03-18 16:35:34,484 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:35:34,486 - pdf_agent.agent - INFO - Processing PDF: nonexistent.pdf
+2025-03-18 16:35:34,486 - pdf_agent.agent - INFO - Selecting method for nonexistent.pdf
+2025-03-18 16:35:34,486 - pdf_agent.agent - ERROR - Failed to open PDF: nonexistent.pdf - no such file: 'nonexistent.pdf'
+2025-03-18 16:35:34,486 - pdf_agent.agent - INFO - Processing PDF: test.txt
+2025-03-18 16:35:34,486 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:35:34,486 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:35:34,492 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:35:34,492 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:35:34,492 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:35:34,492 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:35:34,492 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:35:34,492 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 60}
+2025-03-18 16:35:34,492 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:35:34,498 - pdf_agent.agent - INFO - Trying method tesseract with score 90
+2025-03-18 16:35:35,812 - pdf_agent.agent - INFO - OCR confidence scores: [17.22110552763819, 28.470588235294116]
+2025-03-18 16:35:35,812 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:35:35,815 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 16:35:35,815 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 16:35:35,817 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:35:35,817 - pdf_agent.agent - INFO - Characteristics: {'page_count': 1, 'text_density': 0.9333333333333333, 'image_density': 0.06666666666666667, 'table_indicators': 7.0, 'scanned_indicators': 1.0}
+2025-03-18 16:35:35,817 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:35:35,817 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:35:35,817 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:35:35,817 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 60}
+2025-03-18 16:35:35,817 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:35:35,818 - pdf_agent.agent - INFO - Trying method tesseract with score 90
+2025-03-18 16:35:36,007 - pdf_agent.agent - INFO - OCR confidence scores: [26.166666666666668]
+2025-03-18 16:35:36,007 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:35:36,007 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:35:36,007 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:35:36,013 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:35:36,013 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:35:36,013 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:35:36,013 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:35:36,013 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:35:36,013 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 60}
+2025-03-18 16:35:36,013 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:35:36,019 - pdf_agent.agent - INFO - Trying method tesseract with score 90
+2025-03-18 16:35:37,326 - pdf_agent.agent - INFO - OCR confidence scores: [17.22110552763819, 28.470588235294116]
+2025-03-18 16:35:37,326 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:36:36,365 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:36:36,370 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:36:36,370 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:36:36,370 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:36:36,370 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:36:36,370 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:36:36,370 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 60}
+2025-03-18 16:36:36,370 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:36:36,370 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 16:36:36,372 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:36:36,372 - pdf_agent.agent - INFO - Characteristics: {'page_count': 1, 'text_density': 0.9333333333333333, 'image_density': 0.06666666666666667, 'table_indicators': 7.0, 'scanned_indicators': 1.0}
+2025-03-18 16:36:36,372 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:36:36,372 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:36:36,372 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:36:36,372 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 60}
+2025-03-18 16:36:36,372 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:36:36,413 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:36:36,413 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:36:36,418 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:36:36,418 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:36:36,418 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:36:36,418 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:36:36,418 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:36:36,418 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 60}
+2025-03-18 16:36:36,418 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:36:36,424 - pdf_agent.agent - INFO - Trying method tesseract with score 90
+2025-03-18 16:36:37,754 - pdf_agent.agent - INFO - OCR confidence scores: [17.22110552763819, 28.470588235294116]
+2025-03-18 16:36:37,754 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:36:37,756 - pdf_agent.agent - INFO - Processing PDF: nonexistent.pdf
+2025-03-18 16:36:37,756 - pdf_agent.agent - INFO - Selecting method for nonexistent.pdf
+2025-03-18 16:36:37,756 - pdf_agent.agent - ERROR - Failed to open PDF: nonexistent.pdf - no such file: 'nonexistent.pdf'
+2025-03-18 16:36:37,756 - pdf_agent.agent - INFO - Processing PDF: test.txt
+2025-03-18 16:36:37,756 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:36:37,756 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:36:37,763 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:36:37,763 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:36:37,763 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:36:37,763 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:36:37,763 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:36:37,763 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 60}
+2025-03-18 16:36:37,763 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:36:37,768 - pdf_agent.agent - INFO - Trying method tesseract with score 90
+2025-03-18 16:36:39,077 - pdf_agent.agent - INFO - OCR confidence scores: [17.22110552763819, 28.470588235294116]
+2025-03-18 16:36:39,077 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:36:39,078 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 16:36:39,078 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 16:36:39,080 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:36:39,080 - pdf_agent.agent - INFO - Characteristics: {'page_count': 1, 'text_density': 0.9333333333333333, 'image_density': 0.06666666666666667, 'table_indicators': 7.0, 'scanned_indicators': 1.0}
+2025-03-18 16:36:39,080 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:36:39,080 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:36:39,080 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:36:39,080 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 60}
+2025-03-18 16:36:39,080 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:36:39,081 - pdf_agent.agent - INFO - Trying method tesseract with score 90
+2025-03-18 16:36:39,273 - pdf_agent.agent - INFO - OCR confidence scores: [26.166666666666668]
+2025-03-18 16:36:39,273 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:36:39,273 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:36:39,273 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:36:39,279 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:36:39,279 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:36:39,279 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:36:39,279 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:36:39,279 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:36:39,279 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 60}
+2025-03-18 16:36:39,279 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:36:39,284 - pdf_agent.agent - INFO - Trying method tesseract with score 90
+2025-03-18 16:36:40,600 - pdf_agent.agent - INFO - OCR confidence scores: [17.22110552763819, 28.470588235294116]
+2025-03-18 16:36:40,601 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:37:19,459 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:37:19,464 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:37:19,464 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:37:19,464 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:37:19,464 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:37:19,464 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:37:19,464 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 60}
+2025-03-18 16:37:19,464 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:37:19,464 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 16:37:19,466 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:37:19,466 - pdf_agent.agent - INFO - Characteristics: {'page_count': 1, 'text_density': 0.9333333333333333, 'image_density': 0.06666666666666667, 'table_indicators': 7.0, 'scanned_indicators': 1.0}
+2025-03-18 16:37:19,466 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:37:19,466 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:37:19,466 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:37:19,466 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 60}
+2025-03-18 16:37:19,466 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:37:19,506 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:37:19,507 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:37:19,512 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:37:19,512 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:37:19,512 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:37:19,512 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:37:19,512 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:37:19,512 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 60}
+2025-03-18 16:37:19,512 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:37:19,518 - pdf_agent.agent - INFO - Trying method tesseract with score 90
+2025-03-18 16:37:20,843 - pdf_agent.agent - INFO - OCR confidence scores: [17.22110552763819, 28.470588235294116]
+2025-03-18 16:37:20,843 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:37:20,844 - pdf_agent.agent - INFO - Processing PDF: nonexistent.pdf
+2025-03-18 16:37:20,844 - pdf_agent.agent - INFO - Selecting method for nonexistent.pdf
+2025-03-18 16:37:20,845 - pdf_agent.agent - ERROR - Failed to open PDF: nonexistent.pdf - no such file: 'nonexistent.pdf'
+2025-03-18 16:37:20,845 - pdf_agent.agent - INFO - Processing PDF: test.txt
+2025-03-18 16:37:20,845 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:37:20,845 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:37:20,851 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:37:20,851 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:37:20,851 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:37:20,851 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:37:20,851 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:37:20,851 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 60}
+2025-03-18 16:37:20,851 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:37:20,857 - pdf_agent.agent - INFO - Trying method tesseract with score 90
+2025-03-18 16:37:22,167 - pdf_agent.agent - INFO - OCR confidence scores: [17.22110552763819, 28.470588235294116]
+2025-03-18 16:37:22,167 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:37:22,169 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 16:37:22,169 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 16:37:22,170 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:37:22,170 - pdf_agent.agent - INFO - Characteristics: {'page_count': 1, 'text_density': 0.9333333333333333, 'image_density': 0.06666666666666667, 'table_indicators': 7.0, 'scanned_indicators': 1.0}
+2025-03-18 16:37:22,170 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:37:22,170 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:37:22,170 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:37:22,170 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 60}
+2025-03-18 16:37:22,170 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:37:22,171 - pdf_agent.agent - INFO - Trying method tesseract with score 90
+2025-03-18 16:37:22,366 - pdf_agent.agent - INFO - OCR confidence scores: [26.166666666666668]
+2025-03-18 16:37:22,366 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:37:22,366 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:37:22,366 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:37:22,372 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:37:22,372 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:37:22,372 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:37:22,372 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:37:22,372 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:37:22,372 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 60}
+2025-03-18 16:37:22,372 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:37:22,378 - pdf_agent.agent - INFO - Trying method tesseract with score 90
+2025-03-18 16:37:23,693 - pdf_agent.agent - INFO - OCR confidence scores: [17.22110552763819, 28.470588235294116]
+2025-03-18 16:37:23,693 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:37:46,831 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:37:46,837 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:37:46,837 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:37:46,837 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:37:46,837 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:37:46,837 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:37:46,837 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 60}
+2025-03-18 16:37:46,837 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:37:46,837 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 16:37:46,839 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:37:46,839 - pdf_agent.agent - INFO - Characteristics: {'page_count': 1, 'text_density': 0.9333333333333333, 'image_density': 0.06666666666666667, 'table_indicators': 7.0, 'scanned_indicators': 1.0}
+2025-03-18 16:37:46,839 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:37:46,839 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:37:46,839 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:37:46,839 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 60}
+2025-03-18 16:37:46,839 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:37:46,879 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:37:46,879 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:37:46,885 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:37:46,885 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:37:46,885 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:37:46,885 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:37:46,885 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:37:46,885 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 60}
+2025-03-18 16:37:46,885 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:37:46,891 - pdf_agent.agent - INFO - Trying method tesseract with score 90
+2025-03-18 16:37:48,245 - pdf_agent.agent - INFO - OCR confidence scores: [17.22110552763819, 28.470588235294116]
+2025-03-18 16:37:48,245 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:37:48,246 - pdf_agent.agent - INFO - Processing PDF: nonexistent.pdf
+2025-03-18 16:37:48,247 - pdf_agent.agent - INFO - Selecting method for nonexistent.pdf
+2025-03-18 16:37:48,247 - pdf_agent.agent - ERROR - Failed to open PDF: nonexistent.pdf - no such file: 'nonexistent.pdf'
+2025-03-18 16:37:48,247 - pdf_agent.agent - INFO - Processing PDF: test.txt
+2025-03-18 16:37:48,247 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:37:48,247 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:37:48,253 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:37:48,253 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:37:48,253 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:37:48,253 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:37:48,253 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:37:48,253 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 60}
+2025-03-18 16:37:48,253 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:37:48,259 - pdf_agent.agent - INFO - Trying method tesseract with score 90
+2025-03-18 16:37:49,569 - pdf_agent.agent - INFO - OCR confidence scores: [17.22110552763819, 28.470588235294116]
+2025-03-18 16:37:49,569 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:37:49,570 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 16:37:49,570 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 16:37:49,572 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:37:49,572 - pdf_agent.agent - INFO - Characteristics: {'page_count': 1, 'text_density': 0.9333333333333333, 'image_density': 0.06666666666666667, 'table_indicators': 7.0, 'scanned_indicators': 1.0}
+2025-03-18 16:37:49,572 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:37:49,572 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:37:49,572 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:37:49,572 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 60}
+2025-03-18 16:37:49,572 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:37:49,573 - pdf_agent.agent - INFO - Trying method tesseract with score 90
+2025-03-18 16:37:49,764 - pdf_agent.agent - INFO - OCR confidence scores: [26.166666666666668]
+2025-03-18 16:37:49,765 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:37:49,765 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:37:49,765 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:37:49,770 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:37:49,771 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:37:49,771 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:37:49,771 - pdf_agent.agent - INFO - Applied table adjustment (high)
+2025-03-18 16:37:49,771 - pdf_agent.agent - INFO - Applied text density adjustment (medium)
+2025-03-18 16:37:49,771 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 80, 'tesseract': 60}
+2025-03-18 16:37:49,771 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 80
+2025-03-18 16:37:49,776 - pdf_agent.agent - INFO - Trying method tesseract with score 90
+2025-03-18 16:37:51,086 - pdf_agent.agent - INFO - OCR confidence scores: [17.22110552763819, 28.470588235294116]
+2025-03-18 16:37:51,086 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:38:31,855 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:38:31,861 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:38:31,861 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:38:31,861 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:38:31,861 - pdf_agent.agent - INFO - Applied scanned document adjustment (high)
+2025-03-18 16:38:31,861 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 0, 'tesseract': 190}
+2025-03-18 16:38:31,861 - pdf_agent.agent - INFO - Selected method: tesseract with score 190
+2025-03-18 16:38:31,903 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:38:31,903 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:38:31,908 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:38:31,908 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:38:31,908 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:38:31,909 - pdf_agent.agent - INFO - Applied scanned document adjustment (high)
+2025-03-18 16:38:31,909 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 0, 'tesseract': 190}
+2025-03-18 16:38:31,909 - pdf_agent.agent - INFO - Selected method: tesseract with score 190
+2025-03-18 16:38:31,914 - pdf_agent.agent - INFO - Trying method tesseract with score 90
+2025-03-18 16:38:33,240 - pdf_agent.agent - INFO - OCR confidence scores: [17.22110552763819, 28.470588235294116]
+2025-03-18 16:38:33,241 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:38:33,242 - pdf_agent.agent - INFO - Processing PDF: nonexistent.pdf
+2025-03-18 16:38:33,242 - pdf_agent.agent - INFO - Selecting method for nonexistent.pdf
+2025-03-18 16:38:33,242 - pdf_agent.agent - ERROR - Failed to open PDF: nonexistent.pdf - no such file: 'nonexistent.pdf'
+2025-03-18 16:38:33,242 - pdf_agent.agent - INFO - Processing PDF: test.txt
+2025-03-18 16:38:33,243 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:38:33,243 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:38:33,249 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:38:33,249 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:38:33,249 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:38:33,249 - pdf_agent.agent - INFO - Applied scanned document adjustment (high)
+2025-03-18 16:38:33,249 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 0, 'tesseract': 190}
+2025-03-18 16:38:33,249 - pdf_agent.agent - INFO - Selected method: tesseract with score 190
+2025-03-18 16:38:33,255 - pdf_agent.agent - INFO - Trying method tesseract with score 90
+2025-03-18 16:38:34,601 - pdf_agent.agent - INFO - OCR confidence scores: [17.22110552763819, 28.470588235294116]
+2025-03-18 16:38:34,601 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:38:34,603 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 16:38:34,603 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 16:38:34,604 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:38:34,604 - pdf_agent.agent - INFO - Characteristics: {'page_count': 1, 'text_density': 0.9333333333333333, 'image_density': 0.06666666666666667, 'table_indicators': 7.0, 'scanned_indicators': 1.0}
+2025-03-18 16:38:34,604 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:38:34,604 - pdf_agent.agent - INFO - Applied scanned document adjustment (high)
+2025-03-18 16:38:34,604 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 0, 'tesseract': 190}
+2025-03-18 16:38:34,604 - pdf_agent.agent - INFO - Selected method: tesseract with score 190
+2025-03-18 16:38:34,605 - pdf_agent.agent - INFO - Trying method tesseract with score 90
+2025-03-18 16:38:34,797 - pdf_agent.agent - INFO - OCR confidence scores: [26.166666666666668]
+2025-03-18 16:38:34,798 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:38:34,798 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:38:34,798 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:38:34,804 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:38:34,804 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:38:34,804 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:38:34,804 - pdf_agent.agent - INFO - Applied scanned document adjustment (high)
+2025-03-18 16:38:34,804 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 0, 'tesseract': 190}
+2025-03-18 16:38:34,804 - pdf_agent.agent - INFO - Selected method: tesseract with score 190
+2025-03-18 16:38:34,809 - pdf_agent.agent - INFO - Trying method tesseract with score 90
+2025-03-18 16:38:36,125 - pdf_agent.agent - INFO - OCR confidence scores: [17.22110552763819, 28.470588235294116]
+2025-03-18 16:38:36,126 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:42:23,656 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:42:23,661 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:42:23,662 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:42:23,662 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:42:23,662 - pdf_agent.agent - INFO - Applied table adjustment (very high)
+2025-03-18 16:42:23,662 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 130, 'tesseract': 50}
+2025-03-18 16:42:23,662 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 130
+2025-03-18 16:42:23,662 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 16:42:23,663 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:42:23,663 - pdf_agent.agent - INFO - Characteristics: {'page_count': 1, 'text_density': 0.9333333333333333, 'image_density': 0.06666666666666667, 'table_indicators': 7.0, 'scanned_indicators': 1.0}
+2025-03-18 16:42:23,663 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:42:23,663 - pdf_agent.agent - INFO - Applied scanned document adjustment (high)
+2025-03-18 16:42:23,663 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 0, 'tesseract': 190}
+2025-03-18 16:42:23,663 - pdf_agent.agent - INFO - Selected method: tesseract with score 190
+2025-03-18 16:42:23,664 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:42:23,664 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:42:23,670 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:42:23,670 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:42:23,670 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:42:23,670 - pdf_agent.agent - INFO - Applied table adjustment (very high)
+2025-03-18 16:42:23,670 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 130, 'tesseract': 50}
+2025-03-18 16:42:23,670 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 130
+2025-03-18 16:42:23,675 - pdf_agent.agent - INFO - Trying method tesseract with score 90
+2025-03-18 16:42:25,001 - pdf_agent.agent - INFO - OCR confidence scores: [17.22110552763819, 28.470588235294116]
+2025-03-18 16:42:25,001 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:42:25,003 - pdf_agent.agent - INFO - Processing PDF: nonexistent.pdf
+2025-03-18 16:42:25,003 - pdf_agent.agent - INFO - Selecting method for nonexistent.pdf
+2025-03-18 16:42:25,003 - pdf_agent.agent - ERROR - Failed to open PDF: nonexistent.pdf - no such file: 'nonexistent.pdf'
+2025-03-18 16:42:25,003 - pdf_agent.agent - INFO - Processing PDF: test.txt
+2025-03-18 16:42:25,003 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:42:25,003 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:42:25,009 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:42:25,009 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:42:25,009 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:42:25,009 - pdf_agent.agent - INFO - Applied table adjustment (very high)
+2025-03-18 16:42:25,009 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 130, 'tesseract': 50}
+2025-03-18 16:42:25,009 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 130
+2025-03-18 16:42:25,015 - pdf_agent.agent - INFO - Trying method tesseract with score 90
+2025-03-18 16:42:26,326 - pdf_agent.agent - INFO - OCR confidence scores: [17.22110552763819, 28.470588235294116]
+2025-03-18 16:42:26,326 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:42:26,328 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 16:42:26,328 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 16:42:26,330 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:42:26,330 - pdf_agent.agent - INFO - Characteristics: {'page_count': 1, 'text_density': 0.9333333333333333, 'image_density': 0.06666666666666667, 'table_indicators': 7.0, 'scanned_indicators': 1.0}
+2025-03-18 16:42:26,330 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:42:26,330 - pdf_agent.agent - INFO - Applied scanned document adjustment (high)
+2025-03-18 16:42:26,330 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 0, 'tesseract': 190}
+2025-03-18 16:42:26,330 - pdf_agent.agent - INFO - Selected method: tesseract with score 190
+2025-03-18 16:42:26,331 - pdf_agent.agent - INFO - Trying method tesseract with score 90
+2025-03-18 16:42:26,525 - pdf_agent.agent - INFO - OCR confidence scores: [26.166666666666668]
+2025-03-18 16:42:26,525 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:42:26,525 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:42:26,525 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:42:26,531 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:42:26,531 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:42:26,531 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:42:26,531 - pdf_agent.agent - INFO - Applied table adjustment (very high)
+2025-03-18 16:42:26,531 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 130, 'tesseract': 50}
+2025-03-18 16:42:26,531 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 130
+2025-03-18 16:42:26,536 - pdf_agent.agent - INFO - Trying method tesseract with score 90
+2025-03-18 16:42:27,850 - pdf_agent.agent - INFO - OCR confidence scores: [17.22110552763819, 28.470588235294116]
+2025-03-18 16:42:27,850 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:50:48,942 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 16:50:48,942 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/happyitaly_20240306_001.pdf
+2025-03-18 16:50:48,944 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:50:48,944 - pdf_agent.agent - INFO - Characteristics: {'page_count': 1, 'text_density': 0.9333333333333333, 'image_density': 0.06666666666666667, 'table_indicators': 7.0, 'scanned_indicators': 1.0}
+2025-03-18 16:50:48,944 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:50:48,944 - pdf_agent.agent - INFO - Applied scanned document adjustment (high)
+2025-03-18 16:50:48,944 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 0, 'tesseract': 190}
+2025-03-18 16:50:48,944 - pdf_agent.agent - INFO - Selected method: tesseract with score 190
+2025-03-18 16:50:48,945 - pdf_agent.agent - INFO - Trying method tesseract with score 90
+2025-03-18 16:50:49,147 - pdf_agent.agent - INFO - OCR confidence scores: [26.166666666666668]
+2025-03-18 16:50:49,148 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:50:49,148 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:50:49,148 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/aral_20240926.pdf
+2025-03-18 16:50:49,154 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:50:49,154 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9607843137254902, 'image_density': 0.0392156862745098, 'table_indicators': 13.0, 'scanned_indicators': 1.0}
+2025-03-18 16:50:49,154 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:50:49,154 - pdf_agent.agent - INFO - Applied table adjustment (very high)
+2025-03-18 16:50:49,154 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 130, 'tesseract': 50}
+2025-03-18 16:50:49,154 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 130
+2025-03-18 16:50:49,160 - pdf_agent.agent - INFO - Trying method tesseract with score 90
+2025-03-18 16:50:50,464 - pdf_agent.agent - INFO - OCR confidence scores: [17.22110552763819, 28.470588235294116]
+2025-03-18 16:50:50,465 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:50:50,465 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/20240327_002.pdf
+2025-03-18 16:50:50,465 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/20240327_002.pdf
+2025-03-18 16:50:50,467 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:50:50,467 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.8571428571428571, 'image_density': 0.14285714285714285, 'table_indicators': 3.5, 'scanned_indicators': 1.0}
+2025-03-18 16:50:50,467 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:50:50,467 - pdf_agent.agent - INFO - Applied scanned document adjustment (high)
+2025-03-18 16:50:50,467 - pdf_agent.agent - INFO - Applied image density adjustment (medium)
+2025-03-18 16:50:50,467 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 0, 'tesseract': 250}
+2025-03-18 16:50:50,467 - pdf_agent.agent - INFO - Selected method: tesseract with score 250
+2025-03-18 16:50:50,469 - pdf_agent.agent - INFO - Trying method tesseract with score 90
+2025-03-18 16:50:50,788 - pdf_agent.agent - INFO - OCR confidence scores: [21.866666666666667, -1.0]
+2025-03-18 16:50:50,788 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:50:50,789 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/cora_20240918_010.pdf
+2025-03-18 16:50:50,789 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/cora_20240918_010.pdf
+2025-03-18 16:50:50,790 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:50:50,790 - pdf_agent.agent - INFO - Characteristics: {'page_count': 1, 'text_density': 0.9166666666666666, 'image_density': 0.08333333333333333, 'table_indicators': 8.0, 'scanned_indicators': 1.0}
+2025-03-18 16:50:50,791 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:50:50,791 - pdf_agent.agent - INFO - Applied scanned document adjustment (high)
+2025-03-18 16:50:50,791 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 0, 'tesseract': 190}
+2025-03-18 16:50:50,791 - pdf_agent.agent - INFO - Selected method: tesseract with score 190
+2025-03-18 16:50:50,792 - pdf_agent.agent - INFO - Trying method tesseract with score 90
+2025-03-18 16:50:51,182 - pdf_agent.agent - INFO - OCR confidence scores: [22.30496453900709]
+2025-03-18 16:50:51,182 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
+2025-03-18 16:50:51,182 - pdf_agent.agent - INFO - Processing PDF: /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/20240909_Hilton.pdf
+2025-03-18 16:50:51,182 - pdf_agent.agent - INFO - Selecting method for /Users/vsalami/AI/dyno_pdf/tests/test_pdfs/20240909_Hilton.pdf
+2025-03-18 16:50:51,188 - pdf_agent.agent - INFO - Document type: scanned
+2025-03-18 16:50:51,188 - pdf_agent.agent - INFO - Characteristics: {'page_count': 2, 'text_density': 0.9850746268656716, 'image_density': 0.014925373134328358, 'table_indicators': 19.0, 'scanned_indicators': 1.0}
+2025-03-18 16:50:51,188 - pdf_agent.agent - INFO - Initial scores: {'pymupdf': 20, 'pdfplumber': 30, 'tesseract': 90}
+2025-03-18 16:50:51,188 - pdf_agent.agent - INFO - Applied table adjustment (very high)
+2025-03-18 16:50:51,188 - pdf_agent.agent - INFO - Final scores: {'pymupdf': 0, 'pdfplumber': 130, 'tesseract': 50}
+2025-03-18 16:50:51,188 - pdf_agent.agent - INFO - Selected method: pdfplumber with score 130
+2025-03-18 16:50:51,193 - pdf_agent.agent - INFO - Trying method tesseract with score 90
+2025-03-18 16:50:53,085 - pdf_agent.agent - INFO - OCR confidence scores: [20.455445544554454, 20.59328358208955]
+2025-03-18 16:50:53,085 - pdf_agent.agent - INFO - Successfully processed PDF with tesseract
