@@ -28,20 +28,27 @@ A Python-based framework for intelligent PDF processing and text extraction. The
 
 ## Installation
 
-1. Clone the repository:
+### Option 1: Install directly from GitHub
+```bash
+pip install git+https://github.com/izoon/dyno_pdf.git
+```
+
+### Option 2: Add to requirements.txt
+Add this line to your project's `requirements.txt`:
+```
+dyno-pdf @ git+https://github.com/izoon/dyno_pdf.git
+```
+Then install all requirements:
+```bash
+pip install -r requirements.txt
+```
+
+### Option 3: Install from source (for development)
 ```bash
 git clone https://github.com/izoon/dyno_pdf.git
 cd dyno_pdf
-```
-
-2. Create and activate a virtual environment:
-```bash
 python -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
-```
-
-3. Install dependencies:
-```bash
 pip install -e .
 ```
 
